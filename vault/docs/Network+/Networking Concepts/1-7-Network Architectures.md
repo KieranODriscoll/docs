@@ -1,0 +1,212 @@
+# 1.7 - Network Architectures
+## Architectures
+![](Pasted%20image%2020240606145516.png)
+### Three-tier Architecture
+- Core (Top)
+	- The "center" of the network
+	- Web servers, databases, applications
+	- Many people need access to this
+	- Responsible for routing the traffic
+		- Into and out of the network
+	- Is made up of routers that perform the routing
+	- Can also have switches depending on the network architecture
+		- Perform fast switching
+	- Contains high-speed devices with full hardware redundancy
+- Distribution (Middle)
+	- Is the second tier
+	- A midpoint between the core and the users
+	- Communication between access switches
+	- Manage the path to the end users
+	- Responsible for filtering the traffic
+		- Uses access control lists
+	- Is the tier where network policies are defined
+	- Can contain Layer 3 switches and firewall
+	- Has hardware and network redundancy
+	- Connect with the access switches using high-speed uplinks
+	- Provide redundant interconnections with the switches that can also perform the layer 3 routing
+- Access (Bottom)
+	- Where the users connect
+	- End stations, printers
+	- Contains access switches that
+		- Connect client systems
+		- Connect servers
+	- Is responsible for segregating the traffic to be sent to appropriate VLAN
+	- Allow users to access network services
+	- Receives the packets from the distribution tier, and then it further segregates the traffic to the appropriate segments on the network.
+### SDN (Software Defined Networking)
+- Implements abstraction through different layers in a network
+- Allows you to control the network without worrying about the underlying technologies
+- Works in the vendor-neutral model
+	- Integrate technologies from any vendor
+	- Removes the complexity in a large network
+	- Does not use proprietary protocols
+- Networking devices have different functional planes of operation
+	- Data, control. and management planes
+- Split the functions into separate logical units
+	- Extended the functionality and management of a single device
+	- Perfectly built for the cloud
+- Infrastructure layer / Data plane
+	- Process the network frames and packets
+	- Forwarding, trunking, encrypting, NAT
+	- Contains switches for managing the traffic
+		- By using the network hardware devices
+	- Gets the instructions from the Control Layer to handle the traffic
+	- Is responsible for collecting network health statistics, such as:
+		- Traffic
+		- Errors
+		- Usage
+		- Logging
+	- Shares health network statistics with control layer
+	- Contains the physical networking devices that receive information from the control layer about where to move the data and then perform those movements
+- Control Layer / Control Plane
+	- Manages the actions of the data plane
+	- Routing tables, session tables, NAT tables
+	- Dynamic routing protocol updates
+	- Is known to be the brain of the SDN
+	- Manages network policies and traffic flow
+	- Translates the instructions from the Application Layer
+		- Processes the requests to the network devices
+	- Is known to be the brain of the SDN
+	- Manages network policies and traffic flow
+	- Translates the instructions from the Application Layer
+		- Processes the requests to the network devices
+	- Uses the information from applications to decide how to route a data packet on the network and to make decisions about how traffic should be prioritized, how it should be secured, and where it should be forwarded to
+- Application layer / Management plane
+	- Configure and manage the device
+	- Contains the business applications that connect to the network
+	- Contains network devices:
+		- Load balancers
+		- Firewalls
+		- Proxy servers
+		- Intrusion Detection System
+		- Intrusion Prevention System
+	- Communicates with the Control Layer using APIs
+	- Management Layer
+		- Is responsible for network:
+			- Configuration
+			- Monitoring
+			- Management
+		- Uses various methods to configure the SDN controller
+			- HTTP/HTTPS
+			- SSH
+			- API
+		- Monitor traffic conditions, the status of the network, and allows network administrators to oversee the network and gain insight into its operations
+	- Focuses on the communication requests or information about the network
+### Spine and leaf architecture
+- Each leaf switch connects to each spine switch
+	- Each spine switch connects to each leaf switch
+- Leaf switches do not connect to each other
+	- Same for spine switches
+- Top-of-rack switching
+	- Each leaf is on the "top" of a physical network rack
+	- May include a group of physical racks
+- Advantages
+	- Simple cabling, redundant, fast
+- Disadvantages
+	- Additional switches may be costly
+- Offers many benefits, such as resiliency, performance, low latency, scalability, and adaptability
+- Spine
+	- Contains the high-speed switches
+		- Provide high-throughput
+		- Offer low latency
+- Leaf
+	- Are connected with the systems and servers
+	- Has each switch connecting to all spine switches
+- Top-of-rack Switching
+	- Keeps the access or the leaf switches on top of the rack
+	- Provides the advantage of low cabling
+	- Restrict the cables within the rack
+	- Requires each leaf switch to connect to the spine switches
+		- Forms a full-mesh switch network
+		- Does not require a leaf switch to connect to another leaf switch
+- Backbone
+	- Are high-speed switches that connect to the leaf switches
+	- Does not directly connect with the servers or systems
+	- Can connect to the network devices
+	- Can have => 10G interfaces
+	- Are implemented with redundancy
+- Two-tier architecture, full mesh topology
+### Traffic Flows
+- Traffic flows within a data center
+	- Important to know where traffic starts and ends
+- ![[Pasted image 20240606150444.png]]
+#### East-west
+- Traffic between devices in the same data center
+- Relatively fast response times
+- Traffic that is flowing within the network
+- Occurs at the same layer in a network
+- Can also be between:
+	- Two physical devices
+	- One physical and one virtualized
+#### North-south traffic
+- Ingress/egress to an outside device
+- A different security posture than east-west traffic
+- Is the ingress or egress traffic
+	- Movies in and out of data center
+- Is filtered by the edge devices such as
+	- Router
+	- Firewall
+- Southbound
+	- Is the traffic entering a network
+- Northbound
+	- Is the traffic leaving a network
+### Extend the physical architecture
+- ![](Pasted%20image%2020240606150353.png)
+#### SDN Data flows
+- ![](Pasted%20image%2020240606150421.png)
+### Network locations
+- Branch office
+	- A remote location
+	- Client devices, printers, switch/router/firewall
+	- Uses a distributed network approach
+	- Locates some servers, such as authentication, at the branch office
+	- Saves on bandwidth
+- On-premises data center
+	- Technology is located in-house
+	- Requires power, cooling and ongoing monitoring
+	- Uses a centralized network approach
+	- Connects with branch office using any form of connectivity, such as leased lines
+	- Provides centralized control of the infrastructure
+- Colocation
+	- Share a data center with others
+	- Local oversight and monitoring
+	- Requires the use of a third-party physical location for infrastructure
+	- Is used due to space constraints
+
+## Storage Area Networks
+### SAN (Storage Area Network)
+- Looks and feels like a local storage device
+- Block-level access
+- Very efficient reading and writing
+- Requires a lot of bandwidth
+	- May use an isolated network and high-speed network technologies
+- SAN vs NAS
+	- NAS is a single storage device that serves files over ethernet and is relatively inexpensive. Easier for home user or small businesses to setup
+	- SAN is a tightly coupled network of multiple devices that is more expensive and complex to set up and manage. Better suited for large businesses
+### Fiber Channel (FC)
+- A specialized high-speed topology
+	- Connect servers to storage
+	- 2-, 4-, 8- and 16-gigabit per second rates
+	- Supported over both fiber and copper
+- Servers and storage connect to a Fibre Channel switch
+	- Server (initiator) needs a FC interface
+	- Storage (target) is commonly referenced by SCSI, SAS or SATA commands
+### Fiber Channel over Ethernet (FCoE)
+- Use Fiber Channel over an Ethernet network
+	- No special networking hardware needed
+	- Usually integrates with an existing Fiber Channel infrastructure
+	- Not routable
+- Characteristics
+	- Takes advantages of copper cabling
+	- Enables connectivity between servers and data storage devices
+	- Does not require any specialized hardware
+	- Does not require separate cabling infrastructure
+### iSCSI
+- Internet Small Computer Systems Interface
+	- Send SCSI commands over an IP network
+	- Created by IBM and Cisco, now an RFC standard
+- Makes a remote disk look and operate like a local disk
+	- Like fibre channel
+- Can be managed quite well in software
+	- Drivers available for many operating systems
+	- No proprietary topologies or hardware needed

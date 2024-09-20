@@ -252,7 +252,7 @@
 	- Primary time servers
 - Stratum 2
 	- Sync'd to stratum 1 servers
-- ![]Pasted%20image%2020240619151922.png)
+![Pasted_image_20240619151922](//assets/Pasted_image_20240619151922.webp)
 - 
 ### Configuring NTP
 #### NTP Client
