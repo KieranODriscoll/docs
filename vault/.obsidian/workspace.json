@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Network+/Network Security/4-1-Security Concepts.md",
+                "file": "docs/Network+/Networking Concepts/1-6-Important Protocol Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Network+/Network Security/4-1-Security Concepts.md",
+                "file": "docs/Network+/Networking Concepts/1-6-Important Protocol Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Network+/Network Security/4-1-Security Concepts.md",
+                "file": "docs/Network+/Networking Concepts/1-6-Important Protocol Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Network+/Network Security/4-1-Security Concepts.md"
+                "file": "docs/Network+/Networking Concepts/1-6-Important Protocol Overview.md"
               }
             }
           }
@@ -150,9 +150,24 @@
   },
   "active": "8cf34829570dfe13",
   "lastOpenFiles": [
+    "docs/Network+/Networking Concepts/1-5-Internet Protocol.md",
+    "docs/Network+/Networking Concepts/1-4-IP Addressing.md",
+    "docs/Network+/Networking Concepts/1-3-Cables and Connectors.md",
+    "docs/Network+/Networking Concepts/1-2-Networks.md",
+    "docs/Network+/Networking Concepts/1-1-OSI Model Overview.md",
+    "docs/Network+/Network Security/4-2-Attacks.md",
+    "docs/Network+/Network Security/4-1-Security Concepts.md",
+    "docs/Network+/Network Troubleshooting and Tools/Commands.md",
+    "docs/Network+/Network Troubleshooting and Tools/5-5-Network Troubleshooting.md",
+    "docs/Network+/Network Troubleshooting and Tools/5-4-Wireless Troubleshooting.md",
+    "docs/Network+/Network Troubleshooting and Tools/5-3-Software Tools.md",
+    "docs/Network+/Network Troubleshooting and Tools/5-2-Wired Network Troubleshooting.md",
+    "docs/Network+/Network Troubleshooting and Tools/5-1-Network Troubleshooting Methodology.md",
+    "docs/Network+/Network Security/4-5-Physical Security.md",
+    "docs/Network+/Network Security/4-4-Remote Access.md",
+    "docs/Network+/Network Security/4-3-Hardening.md",
     "docs/Network+/Network Operations/3-3-Infrastructure Concepts.md",
     "docs/Network+/Network Operations/3-2-Policies, Procedures and Documentation.md",
-    "docs/Network+/Network Security/4-1-Security Concepts.md",
     "docs/Network+/Network Operations/3-1-Monitoring.md",
     "docs/Network+/Infrastructure/2-4-Wireless.md",
     "docs/Network+/Infrastructure/2-3-Ethernet.md",
@@ -171,23 +186,8 @@
     "assets/Pasted image 20240606150440.png",
     "assets/Pasted image 20240606150421.png",
     "assets/Pasted image 20240606150353.png",
-    "assets/Pasted.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4g - Wireless Attacks.md",
-    "docs/Security+/Introduction.md",
-    "docs/TryHackMe/Junior Pentester Learning Path/Threat Modelling & Incident Response.md",
-    "docs/TryHackMe/Junior Pentester Learning Path/Content Discovery.md",
     "docs/TryHackMe/Junior Pentester Learning Path",
-    "docs/TryHackMe/Introduction.md",
     "docs/TryHackMe",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.5c - Hardening Techniques.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.5b - Mitigation Techniques.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.5a - Segmentation and Access Control.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4n - Indicators of Compromise.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4m - Password Attacks.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4j - Malicious Code.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4l - Cryptographic Attacks.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4k - Application Attacks.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4i - Replay Attacks.md",
     "docs/Security+/Threats, Vulnerabilities, and Mitigations",
     "docs/Security+/Security Architecture",
     "docs/Security+/Other",
