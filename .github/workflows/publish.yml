@@ -1,0 +1,24 @@
+name: Deploy to Stie
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    name: Deploy to Site
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: npm
+          cache-dependency-path: ./website/package-lock.json
+      - name: Install dependencies
+        run: |
+          cd website
+          npm ci
+      - name: Build website
+        run: |
+          cd website
+          npm run build
