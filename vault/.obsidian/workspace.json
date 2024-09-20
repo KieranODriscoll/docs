@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Security+/General Security Concepts/1-4h-Certificates.md",
+                "file": "docs/Network+/Areas of Concern/List of Topics to Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Security+/General Security Concepts/1-4h-Certificates.md",
+                "file": "docs/Network+/Areas of Concern/List of Topics to Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Security+/General Security Concepts/1-4h-Certificates.md",
+                "file": "docs/Network+/Areas of Concern/List of Topics to Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Security+/General Security Concepts/1-4h-Certificates.md"
+                "file": "docs/Network+/Areas of Concern/List of Topics to Review.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   },
   "active": "8cf34829570dfe13",
   "lastOpenFiles": [
+    "docs/Security+/General Security Concepts/1-4h-Certificates.md",
     "docs/Security+/General Security Concepts/1-4g-Blockchain Technology.md",
     "docs/Security+/General Security Concepts/1-4f-Hashing and Digital Signatures.md",
     "docs/Security+/General Security Concepts/1-4e-Obfuscation.md",
@@ -175,7 +176,6 @@
     "docs/Security+/(OLD) Attacks, Threats, and Vulnerabilities/1.2d - Trojans and RATs.md",
     "docs/Security+/(OLD) Attacks, Threats, and Vulnerabilities/1.2b - Viruses and Worms.md",
     "docs/Security+/(OLD) Attacks, Threats, and Vulnerabilities/1.2a - Overview of Malware.md",
-    "docs/Security+/(OLD) Attacks, Threats, and Vulnerabilities/1.1j - Principles of Social Engineering.md",
     "assets/Pasted image 20240919204941.png",
     "assets/Pasted image 20240919204821.png",
     "assets/Pasted image 20240607142022.png",

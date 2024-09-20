@@ -1,4 +1,4 @@
-- Antennas [2-4-Wireless](docs/Network+/Infrastructure/2-4-Wireless.md#Wireless%20Technologies)
+- Antennas
 - Signal Strength [[docs/Network+/Network Troubleshooting and Tools/5-2-Wired Network Troubleshooting#Decibels (dB)]], [[docs/Network+/Network Troubleshooting and Tools/5-4-Wireless Troubleshooting]]
 - Commands
 - Common Ports [[docs/Network+/Networking Concepts/1-5-Internet Protocol#Common Ports]]
