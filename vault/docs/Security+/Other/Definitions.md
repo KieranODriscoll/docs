@@ -38,6 +38,11 @@
 ## Kerberos
 - Authentication protocol that uses tickets to prevent eavesdropping and replay attacks
 - Relies on a trusted third-party, the Key Distribution Center (KDC), to facilitate mutual authentication between clients and services
+- KDC
+	- Centralized server that is used to distribute cryptographic keys and authenticate users and services within a computer network
+- TGT
+	- Ticket Granting Tickets
+		- Secure token is granted to users during their initial login to enable them access to multiple network services without the need to re-enter their login credentials
 ## Capability
 - Pertains to a threat actor's proficiency in devising new exploit techniques and tools
 - Can range from commonly found attack tools to creating zero-day exploits
@@ -54,3 +59,28 @@
 - least secure authentication service
 - Creates an MD4 hash of a suer's password
 - MD4 can be cracked and should be used
+## RAID
+### Level 0
+- Requires a minimum of 2 drives to implement
+- Is also known as disk striping
+- Decreases reliability (failure of any disk in the array results in the loss of all data in the array)
+- Is suitable for systems where performance has higher priority than fault tolerance
+### Level 1
+- Requires at least 2 drives to implement
+- Offers improved reliability by creating identical data sets on each drive (failure of 1 drive does not destroy the array as each drive contains identical copy of the data)
+- Also referred to as disk mirroring
+### Level 5
+- Requires at least 3 drives to implement
+- Offers increased performance and fault tolerance (single drive failure does not destroy the array and lost data can be re-created by the remaining drives)
+- Is also known as disk striping with parity
+### Level 6
+- Requires at least 4 drives to implement
+- Offers increased performance and fault tolerance (failure of up to 2 drives does not destroy the array and lost data can be re-created by remaining drives)
+- Is also known as disk striping with double parity
+### Level 10 (Raid 1 + 0)
+- Requires a minimum of 4 drives to implement
+- Referred to as stripe mirrors, combination of RAID 1 (data mirroring) and RAID 0 (disk striping)
+- Offers increase performance and fault tolerance (failure of one drive in each mirrored pair of disk drives does not destroy the array)
+## TTP
+- Tactics, Techniques and Procedures
+

@@ -6,13 +6,21 @@
 ### Authentication
 - Prove you are who you say you are
 - Password and other authentication factors
+- Authenticating people
+	- Usernames and passwords
+	- Biometrics
+	- MFA
+- Authenticating Device
+	- Digital certificates
+	- IP Addresses
+	- MAC addresses
 ### Authorization
 - Based on your identification and authentication, what access do you have?
 ### Accounting
 - Resources used: Login time, data sent and received, logout time
 ## Authenticating Systems
 - You have to manage many devices
-	- Often devices that you'll never physically sdee
+	- Often devices that you'll never physically see
 - A system can't type a password
 	- And you may not want to store one
 - How can you truly authenticate a device?
@@ -50,3 +58,7 @@
 - Administration is streamlined
 	- Easy to understand the authorizations
 	- Support any number of users or resources
+### AAA Solutions
+- TACACS+
+- PAP
+- RADIUS

@@ -50,3 +50,6 @@
 	- Control the view based on permissions
 - Many different techniques
 	- Substituting , shuffling, encrypting, masking out, etc
+- Characteristics
+	- Replaces sensitive data with fictitious or modified data while retaining its original format
+	- Allows for data manipulation in environments where the actual values are not needed

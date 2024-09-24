@@ -33,3 +33,4 @@
 	- Monitor the Internet to see who posts it
 - Many other honeytoken examples
 	- Database records, browser cookies, web page pixels
+- A unique identifier that is designed to track attackers

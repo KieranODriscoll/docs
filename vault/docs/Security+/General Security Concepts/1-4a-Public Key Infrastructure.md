@@ -19,6 +19,8 @@
 - Very fast to use
 	- Less overhead than asymmetric encryption
 	- Often combined with asymmetric encryption
+- Symmetric ciphers
+	- AES, DES, IDEA, RC4
 ## Asymmetric encryption
 - Public Key Cryptography
 	- Two (or more) mathematically related keys
@@ -29,6 +31,8 @@
 	- Give it away
 - The private key is the only key that can decrypt data encrypted with the public key
 	- You can't derive the private key from the public key
+- Asymmetric ciphers
+	- DHE, ECC, RSA.
 ## The key pair
 - Asymmetric encryption
 	- Public key cryptography
@@ -60,3 +64,11 @@
 	- Legal proceedings and court orders
 
 ![](Pasted%20image%2020240905145154.png)
+## Public Key Infrastructure Trust Models
+- Single CA
+- Hierarchical model (root + intermediate CAs)
+- Mesh model (cross-certifying CAs)
+- Web of trust (All CAs function as root CAs)
+- Chain of trust model (Multiple CAs in a sequential chain)
+- Bridge model (Cross-certifying between separate PKIs)
+- Hybrid model (combining aspects of different models)

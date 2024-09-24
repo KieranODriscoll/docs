@@ -35,6 +35,7 @@
 	- End users, applications, non-human entities
 - Policy Enforcement Point (PEP)
 	- The gatekeeper
+	- Data plane component that enforces the security policies defined at the Control Plane by the Policy Decision Point (PDP)
 - Allow, monitor, and terminate connections
 	- Can consist of multiple components working together
 ![](Pasted%20image%2020240905134240.png)

@@ -79,10 +79,12 @@
 	- Lists additional identification information
 	- Allows a certificate to support many different domains
 	- Supports multiple specific domain names
+	- Secure multiple domain names or subdomains with a single certificate
 - Wildcard domain
 	- Certificates are based on the name of the server
 	- A wildcard domain will apply to all server names in a domain
 		- \*.kodriscoll.xyz
+	- Secure multiple subdomains within a primary domain
 # Key revocation
 - Certificate Revocation List (CRL)
 	- Maintained by the Certificate Authority (CA)
@@ -113,3 +115,8 @@
 - Not all browsers/apps support OCSP
 	- Early IE versions did not support OCSP
 	- Some support OCSP, but don't bother checking
+
+# Internet Key Exchange (IKE)
+- IKE
+- Protocol used to set up a secure, authenticated communications channel between two parties
+- Typically used with X.509 certificates for authentication

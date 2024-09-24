@@ -11,6 +11,7 @@
 	- Securely store BitLocker keys
 - Password protected
 	- No dictionary attacks
+- Embedded microcontroller used for secure boot, disk encryption and system integrity verification
 ## Hardware Security Module (HSM)
 - Used in large environments
 	- Clusters, redundant power
@@ -21,6 +22,7 @@
 	- Secure storage in hardware
 - Cryptographic accelerators
 	- Offload that CPU overhead from other devices
+- Piece of hardware and associated software/firmware designed to provide cryptographic and key management functions
 ## Key management system
 - Services are everywhere
 	- On-premises, cloud-based

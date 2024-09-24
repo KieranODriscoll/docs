@@ -52,3 +52,9 @@
 	- Nobody else can sign this
 - Verify with the public key
 	- Any change in the message will invalidate the signature
+- Generating and verifying digital signatures
+	- ECDSA
+	- RSA
+	- DSA
+- Format
+	- P12

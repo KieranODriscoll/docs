@@ -7,6 +7,15 @@
 	- Bitlocker, FileVault, etc
 - File encryption
 	- EFS (encrypting file system), third-party utilities
+	- MS Windows operating system that enables individual files or folders to be encrypted with the use of public keys
+- Self-encrypting drive (SED)
+	- data storage device that comes equipped with hardware-level encryption functionality
+- PGP (Pretty good privacy)
+	- Specifically designed for implementing encryption algorithms to secure data communication and storage
+	- Communicate securely by decrypting and encrypting messages, authenticating messages through digital signatures and encrypting files
+- GPG
+	- Specifically designed for implementing encryption algorithms to secure data communication and storage
+	- GnuPG or GNU Privacy Guard
 ## Database Encryption
 - Protecting stored data
 	- And the transmission of that data
@@ -41,6 +50,7 @@
 	- Digital signature
 - Keep your key private!
 	- It's the only thing protecting your data
+- 
 ## Key lengths
 - Larger keys tend to be more secure
 	- Prevent brute-force attacks
