@@ -83,4 +83,15 @@
 - Offers increase performance and fault tolerance (failure of one drive in each mirrored pair of disk drives does not destroy the array)
 ## TTP
 - Tactics, Techniques and Procedures
-
+## SPOF
+- Single Point of Failure
+## PKCS
+- Public Key Cryptography Standards
+## PBKDF2
+- Key stretching algorithm
+- Enables secure conversion of user passwords into cryptographic keys
+## OVAL
+- Language primarily used for automating the assessment of security vulnerabilities and configuration issues on computer systems
+## CASB
+- Cloud Access Security Broker
+- Cloud-based security policy enforcement point between cloud service consumers and providers

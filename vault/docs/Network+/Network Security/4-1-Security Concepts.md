@@ -365,6 +365,13 @@
 - Use contracts for clear understanding
 	- Make sure everyone understands the expectations
 	- Use the contract to enforce a secure environment
+#### Vendor Selection
+- Process of evaluating and choosing vendors based on various criteria, including their alignment with the organization's ethical and legal requirements.
+- Occurs before the partnership begins
+#### Vendor Monitoring
+- Continuously evaluating a vendor's security performance and compliance with contractual requirements, but dose not directly relate to ethical and legal criteria
+#### Vendor Assessment
+- Involves evaluating the security measures and vulnerabilities of a vendor's systems and infrastructure
 ### SIEM
 - Security Information and Event Management
 	- Logging of security events and information

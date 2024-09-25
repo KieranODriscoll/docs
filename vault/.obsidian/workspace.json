@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Security+/Governance, Risk and Compliance/5.3b - Agreement Types.md",
+                "file": "docs/Security+/Governance, Risk and Compliance/5.1e - Data Roles and Responsibilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MSA",
+                "query": "data processor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Security+/Governance, Risk and Compliance/5.3b - Agreement Types.md",
+                "file": "docs/Security+/Governance, Risk and Compliance/5.1e - Data Roles and Responsibilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Security+/Governance, Risk and Compliance/5.3b - Agreement Types.md",
+                "file": "docs/Security+/Governance, Risk and Compliance/5.1e - Data Roles and Responsibilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Security+/Governance, Risk and Compliance/5.3b - Agreement Types.md"
+                "file": "docs/Security+/Governance, Risk and Compliance/5.1e - Data Roles and Responsibilities.md"
               }
             }
           }
@@ -149,38 +149,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8cf34829570dfe13",
+  "active": "d8f516272048c4cf",
   "lastOpenFiles": [
-    "docs/Security+/Operations and Incident Response/4.6a - Identity and Access Management (IAM).md",
-    "docs/Security+/Operations and Incident Response/4.4b - Security Tools.md",
+    "docs/Security+/General Security Concepts/1-4d-Encryption Technologies.md",
+    "docs/Security+/General Security Concepts/1-4h-Certificates.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4a - Viruses and Worms.md",
+    "docs/Security+/Governance, Risk and Compliance/5.2a - Risk Management.md",
+    "docs/Network+/Infrastructure/2-4-Wireless.md",
     "docs/Security+/Other/Definitions.md",
     "docs/Security+/Other/Reports.md",
-    "docs/Security+/Operations and Incident Response/4.1d - Wireless Security Settings.md",
+    "docs/Security+/Governance, Risk and Compliance/5.2b - Risk Analysis.md",
     "docs/Network+/Network Security/4-1-Security Concepts.md",
-    "docs/Network+/Infrastructure/2-4-Wireless.md",
+    "docs/Security+/Governance, Risk and Compliance/5.3a - Third-party Risk Assessment.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.1 - Threat Actors.md",
+    "docs/Security+/General Security Concepts/1-1-Security Controls.md",
+    "docs/Security+/General Security Concepts/1-2f-Physical Security.md",
+    "docs/Network+/Network Security/4-5-Physical Security.md",
+    "docs/Network+/Networking Concepts/1-3-Cables and Connectors.md",
+    "docs/Security+/General Security Concepts/1-2c-Authentication, Authorization, and Accounting.md",
+    "docs/Security+/General Security Concepts/1-4a-Public Key Infrastructure.md",
+    "docs/Security+/Governance, Risk and Compliance/5.3b - Agreement Types.md",
+    "docs/Security+/Operations and Incident Response/4.6a - Identity and Access Management (IAM).md",
+    "docs/Security+/Operations and Incident Response/4.4b - Security Tools.md",
+    "docs/Security+/Operations and Incident Response/4.1d - Wireless Security Settings.md",
     "docs/Security+/General Security Concepts/1-4e-Obfuscation.md",
     "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4k - Application Attacks.md",
     "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4d - Physical Attacks.md",
     "docs/Network+/Networking Concepts/1-2-Networks.md",
     "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.2 - Common Threat Vectors.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4a - Viruses and Worms.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4 Overview of Malware.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4b - Spyware and Bloatware.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.3g - Cross-site Scripting.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.1 - Threat Actors.md",
     "assets/Pasted image 20240923142605.png",
     "assets/Pasted image 20240923142553.png",
     "assets/Pasted image 20240923142545.png",
     "assets/Pasted image 20240923142532.png",
-    "docs/Security+/General Security Concepts/1-4h-Certificates.md",
-    "docs/Security+/General Security Concepts/1-4a-Public Key Infrastructure.md",
-    "docs/Security+/General Security Concepts/1-4c-Key Exchange.md",
-    "docs/Security+/General Security Concepts/1-4f-Hashing and Digital Signatures.md",
-    "docs/Security+/General Security Concepts/1-4b-Encrypting Data.md",
-    "docs/Security+/General Security Concepts/1-2a-The CIA Triad.md",
-    "docs/Security+/General Security Concepts/1-4d-Encryption Technologies.md",
-    "docs/Security+/Security Architecture/3.3b - States of Data.md",
-    "docs/Security+/Security Architecture/3.2f - Secure Communication.md",
     "assets/Pasted image 20240919204941.png",
     "assets/Pasted image 20240919204821.png",
     "assets/Pasted image 20240607142022.png",

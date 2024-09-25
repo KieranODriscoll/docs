@@ -12,6 +12,7 @@
 - Password protected
 	- No dictionary attacks
 - Embedded microcontroller used for secure boot, disk encryption and system integrity verification
+- Hardware-based storage system that contains keys, digital certificates, hashed passwords and other types of information used for authentication
 ## Hardware Security Module (HSM)
 - Used in large environments
 	- Clusters, redundant power
@@ -56,3 +57,5 @@
 	- Root cryptographic keys
 	- Performs AES encryption in hardware
 	- And more...
+- Chip that is used only to secure encryption keys, hashes and other important data.
+- Embedded in Apple and Android devices
