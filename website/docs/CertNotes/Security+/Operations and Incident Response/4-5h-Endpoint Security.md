@@ -1,0 +1,89 @@
+# 4.5h - Endpoint Security
+## The endpoint
+- The user's access
+	- Applications and data
+- Stop the attackers
+	- Inbound attacks
+	- Outbound attacks
+- Many different platforms
+	- Mobile, desktop
+- Protection is multi-faceted
+	- Defense in depth
+## Edge vs access control
+- Control at the edge
+	- Your internet link
+	- Manage primarily through firewall rules
+	- Firewall rules rarely change
+- Access control
+	- Control from wherever you are
+	- Inside or Outside
+	- Access can be based on many rules
+	- By user, group, location, application, etc
+	- Access can be easily revoked or changed
+	- Change your security posture at any time
+## Posture assessment
+- You can't trust everyone's computer
+	- BYOD (Bring Your Own Device)
+	- Malware infections / missing anti-malware
+	- Unauthorized applications
+- Before connecting to the network, perform a health check
+	- Is it a trusted device?
+	- Is it running AV? Which one? Updated?
+	- Are the corporate applications installed?
+	- Is it mobile device? Is the disk encrypted?
+	- The type of device doesn't matter - Windows, Mac, Linux, iOS, Android
+## Health checks / posture assessment
+- Persistent agents
+	- Permanently installed onto a system
+	- Periodic updates may be required
+- Dissolvable agents
+	- No installation is required
+	- Runs during the posture assessment
+	- Terminates when no longer required
+- Agentless NAC
+	- Integrated with Active Directory
+	- Checks are made during login and logoff
+	- Can't be scheduled
+## Failing your assessment
+- What happens when a posture assessment fails?
+	- Too dangerous to allow access
+- Quarantine network, notify administrators
+	- Just enough network access to fix the issue
+- Once resolved, try again
+	- May require additional fixes
+## Endpoint detection and response (EDR)
+- A different method of threat protection
+	- Scale to meet the increasing number of threats
+- Detect a threat
+	- Signatures aren't the only detection tool
+	- Behavioral analysis, machine learning, process monitoring
+	- Lightweight agent on the endpoint
+- Investigate the threat
+	- Root cause analysis
+- Respond to the threat
+	- Isolate the system, quarantine the threat, rollback to a previous config
+	- API driven, no user or technician intervention required
+## Extended Detection and Response (XDR)
+- An evolution of EDR
+	- Improve missed detections, false positives and long investigation times
+	- Attacks involve more than just the endpoint
+- Adds network-based detection
+	- Investigate and respond to the network anomalies
+- Correlate endpoint, network and cloud data
+	- Improve detection rates
+	- Simplify security event investigations
+- Integrate and correlate security data from various sources, such as endpoints, network and cloud environments/
+- Can detect and respond to sophisticated, multi-vector cyber threats more effectively
+- Can contribute to enforcing security policies, its primary role is to detect and respond to multi-vector cyber threats across the IT environment
+- Enhance threat detection and response capabilities
+- Provide real-time monitoring and reporting of attacks
+## User behavior analytics
+- XDR commonly includes user behavior analytics
+	- Extend the scope of anomaly detecton
+- Watch users, hosts, network traffic, data repositories, etc
+	- Creates a baseline or normal activity
+	- Requires data analysis over an extended period
+- Watch for anything unusual
+	- Use a set of rules, pattern matching, statistical analysis
+- Real-time detection of unusual activity
+	- Catch the threat early

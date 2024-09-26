@@ -60,9 +60,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'mainSidebar',
+            sidebarId: 'certSidebar',
             position: 'left',
-            label: 'Main',
+            label: 'Certifcation Notes',
           },
           {
             href: 'https://github.com/KieranODriscoll',
