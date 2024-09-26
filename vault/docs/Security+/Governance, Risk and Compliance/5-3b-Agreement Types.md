@@ -1,0 +1,54 @@
+# 5.3b - Agreement Types
+## Common agreements
+- Service Level Agreement (SLA)
+	- Minimum terms for services provided
+	- Uptime, response time agreement, etc
+	- Commonly used between customers and service providers
+	- Contract with an Internet Provider
+		- SLA is no more than four hours of unscheduled downtime
+		- Technician will be dispatched
+		- May require customer to keep spare equipment on-site
+- Memorandum of Understanding (MOU)
+	- Both sides agree in general to the contents of the memorandum
+	- Usually states common goals, but not much more
+	- May include statements of confidentiality
+	- Informal letter of intent; not a signed contract
+- Memorandum of Agreement (MOA)
+	- The next step above MOU
+	- Both sides conditionally agree to the objectives
+	- Can also be a legal document, even without legal language
+	- Unlike a contract, may not contain legally enforceable promises
+	- Agreement between multiple entities that outlines in detail the roles and responsibilities of each party. More detailed than an MOU
+- Master Service Agreement (MSA)
+	- Legal contract and agreement of terms
+	- A broad framework to cover later transactions
+	- Many detailed negotiations happen here
+	- Future projects will be based on this agreement
+- Work order (WO) / Statement of Work (SOW)
+	- Specific list of items to be completed
+	- Used in conjunction with a MSA
+	- Details the scope of the job, location, deliverables schedule, acceptance criteria, and more
+	- Was the job done properly? Refer to SOW
+## Non-disclosure Agreement (NDA)
+- Confidentiality agreement between parties
+	- Information in the agreement should not be disclosed
+- Protects confidential information
+	- Trade secrets
+	- Business activities
+	- Anything else listed in the NDA
+- Unilateral or Bilateral (or multilateral)
+	- One-way NDA or mutual NDA
+- Formal contract
+	- Signatures are usually required
+## Common agreements
+- Business Partners Agreement (BPA)
+	- Going into business together
+	- Owner stake
+	- Financial contract
+	- Decision-making
+		- Who makes the business decisions?
+		- The BPA lists specific individuals and scope
+	- Prepare for contingencies
+		- Financial issues
+		- Disaster recovery
+	- Agreement between business partners that outlines each partner's obligations

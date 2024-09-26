@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Security+/Governance, Risk and Compliance/5.1e - Data Roles and Responsibilities.md",
+                "file": "docs/Security+/Operations and Incident Response/4-8c-Digital Forensics.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Security+/Governance, Risk and Compliance/5.1e - Data Roles and Responsibilities.md",
+                "file": "docs/Security+/Operations and Incident Response/4-8c-Digital Forensics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Security+/Governance, Risk and Compliance/5.1e - Data Roles and Responsibilities.md",
+                "file": "docs/Security+/Operations and Incident Response/4-8c-Digital Forensics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Security+/Governance, Risk and Compliance/5.1e - Data Roles and Responsibilities.md"
+                "file": "docs/Security+/Operations and Incident Response/4-8c-Digital Forensics.md"
               }
             }
           }
@@ -149,34 +148,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d8f516272048c4cf",
+  "active": "8cf34829570dfe13",
   "lastOpenFiles": [
-    "docs/Security+/General Security Concepts/1-4d-Encryption Technologies.md",
-    "docs/Security+/General Security Concepts/1-4h-Certificates.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4a - Viruses and Worms.md",
-    "docs/Security+/Governance, Risk and Compliance/5.2a - Risk Management.md",
-    "docs/Network+/Infrastructure/2-4-Wireless.md",
-    "docs/Security+/Other/Definitions.md",
-    "docs/Security+/Other/Reports.md",
-    "docs/Security+/Governance, Risk and Compliance/5.2b - Risk Analysis.md",
-    "docs/Network+/Network Security/4-1-Security Concepts.md",
-    "docs/Security+/Governance, Risk and Compliance/5.3a - Third-party Risk Assessment.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.1 - Threat Actors.md",
-    "docs/Security+/General Security Concepts/1-1-Security Controls.md",
-    "docs/Security+/General Security Concepts/1-2f-Physical Security.md",
-    "docs/Network+/Network Security/4-5-Physical Security.md",
-    "docs/Network+/Networking Concepts/1-3-Cables and Connectors.md",
-    "docs/Security+/General Security Concepts/1-2c-Authentication, Authorization, and Accounting.md",
-    "docs/Security+/General Security Concepts/1-4a-Public Key Infrastructure.md",
-    "docs/Security+/Governance, Risk and Compliance/5.3b - Agreement Types.md",
-    "docs/Security+/Operations and Incident Response/4.6a - Identity and Access Management (IAM).md",
-    "docs/Security+/Operations and Incident Response/4.4b - Security Tools.md",
-    "docs/Security+/Operations and Incident Response/4.1d - Wireless Security Settings.md",
-    "docs/Security+/General Security Concepts/1-4e-Obfuscation.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4k - Application Attacks.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.4d - Physical Attacks.md",
-    "docs/Network+/Networking Concepts/1-2-Networks.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2.2 - Common Threat Vectors.md",
+    "docs/Security+/Operations and Incident Response/4-8b-Incident Planning.md",
+    "docs/Security+/Operations and Incident Response/4-8a-Incident Response.md",
+    "docs/Security+/Operations and Incident Response/4-8-Log Data.md",
+    "docs/Security+/Operations and Incident Response/4-7-Scripting and Automation.md",
+    "docs/Security+/Operations and Incident Response/4-6d-Password Security.md",
+    "docs/Security+/Operations and Incident Response/4-6c-Multifactor Authentication.md",
+    "docs/Security+/Operations and Incident Response/4-6b-Access Controls.md",
+    "docs/Security+/Operations and Incident Response/4-6a-Identity and Access Management (IAM).md",
+    "docs/Security+/Operations and Incident Response/4-5h-Endpoint Security.md",
+    "docs/Security+/Operations and Incident Response/4-5f-Monitoring Data.md",
+    "docs/Security+/Operations and Incident Response/4-5e-Email Security.md",
+    "docs/Security+/Operations and Incident Response/4-5d-Secure Protocols.md",
+    "docs/Security+/Operations and Incident Response/4-5c-Operating System Security.md",
+    "docs/Security+/Operations and Incident Response/4-5b-Web Filtering.md",
+    "docs/Security+/Operations and Incident Response/4-5a-Firewalls.md",
+    "docs/Security+/Operations and Incident Response/4-4b-Security Tools.md",
+    "docs/Security+/Operations and Incident Response/4-4a-Security Monitoring.md",
+    "docs/Security+/Operations and Incident Response/4-3e-Vulnerability Remediation.md",
+    "docs/Security+/Operations and Incident Response/4-3d-Analyzing Vulnerabilities.md",
+    "docs/Security+/Operations and Incident Response/4-3c-Penetration Testing.md",
+    "docs/Security+/Operations and Incident Response/4-3b-Threat Intelligence.md",
+    "docs/Security+/Operations and Incident Response/4-3a-Vulnerability Scanning.md",
+    "docs/Security+/Operations and Incident Response/4-2-Asset Management.md",
+    "docs/Security+/Operations and Incident Response/4-1e-Application Security.md",
+    "docs/Security+/Operations and Incident Response/4-1d-Wireless Security Settings.md",
+    "docs/Security+/Operations and Incident Response/4-1c-Securing Wireless and Mobile.md",
     "assets/Pasted image 20240923142605.png",
     "assets/Pasted image 20240923142553.png",
     "assets/Pasted image 20240923142545.png",
