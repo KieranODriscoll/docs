@@ -34,6 +34,3 @@
 - Always verify before revealing info
 - Verification should be encouraged
 	- Especially if your organization own valuable information
-
-## Related
-[[1.1b - Impersonation]]

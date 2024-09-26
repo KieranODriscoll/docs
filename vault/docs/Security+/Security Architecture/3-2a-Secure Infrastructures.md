@@ -39,4 +39,4 @@
 	- The hard work has already been done
 - Network-level encryption
 	- IPSec tunnels, VPN connections
-![[Pasted image 20240913142241.png]]
+![](Pasted%20image%2020240913142241.png)

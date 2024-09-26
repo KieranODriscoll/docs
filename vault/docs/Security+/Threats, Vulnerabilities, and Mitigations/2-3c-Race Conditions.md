@@ -25,4 +25,4 @@
 	- TOCTOU attacks against the Tesla infotainment using Bluetooth
 	- Elevated privileges to root
 	- Earn $100,000 US prize and they kept the Tesla
-![[Pasted image 20240908120351.png]]
+![](Pasted%20image%2020240908120351.png)

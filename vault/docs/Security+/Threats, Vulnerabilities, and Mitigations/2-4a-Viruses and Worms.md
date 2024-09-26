@@ -22,7 +22,7 @@
 	- Does a good job of avoiding anti-virus detection
 - Operates in memory
 	- But never installed in a file or application
-- ![[Pasted image 20240909123245.png]]
+- ![](Pasted%20image%2020240909123245.png)
 - Characterized by its evasion techniques, utilizing legitimate system processes and tools, and running directly in memory without writing files to the disk.
 ## Worms
 - Malware that self-replicates
@@ -33,6 +33,4 @@
 	- Can take over many systems very quickly
 - Firewalls and IDS/IPS can mitigate many worm infestations
 	- Doesn't help much once the worm gets inside
-- ![[Pasted image 20240909123256.png]]
-## Related
-[[1.2b - Viruses and Worms]]
+- ![](Pasted%20image%2020240909123256.png)

@@ -20,7 +20,7 @@
 - The port number does not guarantee security
 	- Confirm the security features are enabled
 	- Packet captures may be necessary
-- ![[Pasted image 20240917172649.png]]
+- ![](Pasted%20image%2020240917172649.png)
 ## Transport method
 - Don't reply on the application
 	- Encrypt everything over the current network transport

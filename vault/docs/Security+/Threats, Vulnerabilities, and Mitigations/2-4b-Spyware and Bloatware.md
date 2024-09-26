@@ -39,5 +39,3 @@
 - Some apps have their own uninstaller
 - Third-party uninstallers and cleaners
 	- Always have a backup
-## Related
-[[1.2f - Spyware]]

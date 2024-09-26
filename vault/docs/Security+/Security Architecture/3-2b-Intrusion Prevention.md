@@ -24,4 +24,4 @@
 - Detection vs Prevention
 	- Detection - Alarm or Alert
 	- Prevention - Stop it before it gets into the network
-![[Pasted image 20240913182354.png]]
+![](Pasted%20image%2020240913182354.png)

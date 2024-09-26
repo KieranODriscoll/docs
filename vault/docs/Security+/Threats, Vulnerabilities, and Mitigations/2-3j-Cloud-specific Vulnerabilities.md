@@ -29,5 +29,3 @@
 	- Data corruption, crashing, or code execution
 - SQL Injection
 	- Get direct access to a database
-## Related
-- [[1.2m - Cloud-based vs On-Premises Attacks]]

@@ -27,4 +27,3 @@
 	- Attackers gained access to the Solarwinds development system
 	- Added their own malicious code to the updates
 	- Gained access to hundreds of government agencies and companies
-- 

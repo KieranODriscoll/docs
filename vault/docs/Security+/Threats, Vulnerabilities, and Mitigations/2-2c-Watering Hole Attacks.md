@@ -33,5 +33,3 @@
 	- Stop the network traffic before things get bad
 - Anti-virus / Anti-malware signature updates
 	- The Polish Financial Supervision Authority attack code was recognized and stopped by generic signatures in Symantec's anti-virus software
-## Related
-- [[1.1f - Watering Hole Attacks]]

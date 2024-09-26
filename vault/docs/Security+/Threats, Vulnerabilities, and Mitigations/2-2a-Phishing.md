@@ -35,6 +35,3 @@
 - Variations of a theme
 	- The fake check scam, phone verification code scam
 	- Boss/CEO scam, advance-fee scam
-
-## Related
-[[1.1a - Phishing]]

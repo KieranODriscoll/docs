@@ -25,4 +25,4 @@
 	- Runs as part of the target process
 - One of the most popular memory injection methods
 	- Relatively easy to implement
-![[Pasted image 20240908115024.png]]
+![](Pasted%20image%2020240908115024.png)

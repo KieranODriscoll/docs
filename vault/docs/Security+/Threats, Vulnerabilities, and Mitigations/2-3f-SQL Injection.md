@@ -14,5 +14,4 @@
 	- Stored procedures protect against SQL injection attacks because they prevent user-supplied from being interpreted as code
 - Can often by executed in a web browser
 	- Inject in a form or field
-
-![[Pasted image 20240908122526.png]]
+![](Pasted%20image%2020240908122526.png)

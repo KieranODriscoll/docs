@@ -46,4 +46,4 @@
 - Keep your browser and applications updated
 - Validate unput
 	- Don't allow users to add their own scripts to an input field
-![[Pasted image 20240908123608.png]]
+![](Pasted%20image%2020240908123608.png)

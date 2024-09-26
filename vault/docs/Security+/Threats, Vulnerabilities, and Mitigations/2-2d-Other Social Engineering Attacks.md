@@ -19,4 +19,4 @@
 - Malware infection is almost guaranteed
 	- Display ads, site tracking, data exfiltration
 ## The misinformation process
-![[Pasted image 20240907160003.png]]
+![](Pasted%20image%2020240907160003.png)

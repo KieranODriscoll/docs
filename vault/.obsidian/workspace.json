@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee10067c72b8bb9b",
+        "id": "c92121a2b59bc019",
         "type": "tabs",
         "children": [
           {
-            "id": "8cf34829570dfe13",
+            "id": "f475241ce297ebdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Security+/Operations and Incident Response/4-8c-Digital Forensics.md",
+                "file": "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-5c-Hardening Techniques.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Security+/Operations and Incident Response/4-8c-Digital Forensics.md",
+                "file": "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-5c-Hardening Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Security+/Operations and Incident Response/4-8c-Digital Forensics.md",
+                "file": "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-5c-Hardening Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Security+/Operations and Incident Response/4-8c-Digital Forensics.md"
+                "file": "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-5c-Hardening Techniques.md"
               }
             }
           }
@@ -148,34 +148,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8cf34829570dfe13",
+  "active": "f475241ce297ebdd",
   "lastOpenFiles": [
-    "docs/Security+/Operations and Incident Response/4-8b-Incident Planning.md",
-    "docs/Security+/Operations and Incident Response/4-8a-Incident Response.md",
-    "docs/Security+/Operations and Incident Response/4-8-Log Data.md",
-    "docs/Security+/Operations and Incident Response/4-7-Scripting and Automation.md",
-    "docs/Security+/Operations and Incident Response/4-6d-Password Security.md",
-    "docs/Security+/Operations and Incident Response/4-6c-Multifactor Authentication.md",
-    "docs/Security+/Operations and Incident Response/4-6b-Access Controls.md",
-    "docs/Security+/Operations and Incident Response/4-6a-Identity and Access Management (IAM).md",
-    "docs/Security+/Operations and Incident Response/4-5h-Endpoint Security.md",
-    "docs/Security+/Operations and Incident Response/4-5f-Monitoring Data.md",
-    "docs/Security+/Operations and Incident Response/4-5e-Email Security.md",
-    "docs/Security+/Operations and Incident Response/4-5d-Secure Protocols.md",
-    "docs/Security+/Operations and Incident Response/4-5c-Operating System Security.md",
-    "docs/Security+/Operations and Incident Response/4-5b-Web Filtering.md",
-    "docs/Security+/Operations and Incident Response/4-5a-Firewalls.md",
-    "docs/Security+/Operations and Incident Response/4-4b-Security Tools.md",
-    "docs/Security+/Operations and Incident Response/4-4a-Security Monitoring.md",
-    "docs/Security+/Operations and Incident Response/4-3e-Vulnerability Remediation.md",
-    "docs/Security+/Operations and Incident Response/4-3d-Analyzing Vulnerabilities.md",
-    "docs/Security+/Operations and Incident Response/4-3c-Penetration Testing.md",
-    "docs/Security+/Operations and Incident Response/4-3b-Threat Intelligence.md",
-    "docs/Security+/Operations and Incident Response/4-3a-Vulnerability Scanning.md",
-    "docs/Security+/Operations and Incident Response/4-2-Asset Management.md",
-    "docs/Security+/Operations and Incident Response/4-1e-Application Security.md",
-    "docs/Security+/Operations and Incident Response/4-1d-Wireless Security Settings.md",
-    "docs/Security+/Operations and Incident Response/4-1c-Securing Wireless and Mobile.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-5b-Mitigation Techniques.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-5a-Segmentation and Access Control.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4n-Indicators of Compromise.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4m-Password Attacks.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4l-Cryptographic Attacks.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4k-Application Attacks.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4j-Malicious Code.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4i-Replay Attacks.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4h-On-path Attacks.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4g-Wireless Attacks.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4f-DNS Attacks.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4e-Denial of Service.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4d-Physical Attacks.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4c-Other Malware Types.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4b-Spyware and Bloatware.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4a-Viruses and Worms.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4-Overview of Malware.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3m-Mobile Device Vulnerabilities.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3n-Zero-day Vulnerabilities.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3l-Misconfiguration Vulnerabilities.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3k-Supply Chain Vulnerabilities.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3j-Cloud-specific Vulnerabilities.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3i-Virtualization Vulnerabilities.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3h-Hardware Vulnerabilities.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3g-Cross-site Scripting.md",
+    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3f-SQL Injection.md",
     "assets/Pasted image 20240923142605.png",
     "assets/Pasted image 20240923142553.png",
     "assets/Pasted image 20240923142545.png",

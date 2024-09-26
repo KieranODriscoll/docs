@@ -68,7 +68,7 @@
 - Significant web application oversight
 	- The application should have anti-forgery techniques added
 	- Usually a cryptographic token to prevent a forgery
-- ![[Pasted image 20240909140643.png]]
+- ![](Pasted%20image%2020240909140643.png)
 ## Directory traversal
 - Directory traversal / Path traversal
 	- Read files from a web server that are outside of the website's file directory

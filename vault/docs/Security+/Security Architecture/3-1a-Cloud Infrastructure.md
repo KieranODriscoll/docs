@@ -63,4 +63,4 @@
 - Scalable - Scale just the microservices you need
 - Resilient - Outages are contained
 - Security and compliance - Containment is built-in
-![[Pasted image 20240913134401.png]]
+![](Pasted%20image%2020240913134401.png)

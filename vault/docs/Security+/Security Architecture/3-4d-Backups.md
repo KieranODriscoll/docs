@@ -55,7 +55,7 @@
 - Take a snapshot every day
 	- Revert to any snapshot
 	- Very fast recovery
-- ![[Pasted image 20240916192837.png]]
+- ![](Pasted%20image%2020240916192837.png)
 ## Recovery testing
 - It's not enough to perform the backup
 	- You have to be able to restore

@@ -26,13 +26,13 @@
 - On-demand access from a remote device
 	- Software connects to a VPN concentrator
 - Some software can be configured as always-on
-- ![[Pasted image 20240913190606.png]]
+- ![](Pasted%20image%2020240913190606.png)
 ## Site-to-site IPsec VPN
 - Always-on
 	- Or almost always
 - Firewalls often act as VPN concentrators
 	- Probably already have firewalls in place
-- ![[Pasted image 20240913190612.png]]
+- ![](Pasted%20image%2020240913190612.png)
 ## SD-Wan
 - Software Defined Networking in a Wide Area Network
 	- A WAN built for the cloud
@@ -49,7 +49,7 @@
 	- Located close to existing cloud services
 - SASE clients on all devices
 	- Streamlined and automatic
-- ![[Pasted image 20240913190624.png]]
+- ![](Pasted%20image%2020240913190624.png)
 - Combines network security and WAN capabilities in a single cloud-based service, making it an ideal solution for ensuring secure and reliable access to data and applications irrespective of user/device location
 - Form of cloud architecture that combines a number of services as as single service
 ## Selection of effective controls

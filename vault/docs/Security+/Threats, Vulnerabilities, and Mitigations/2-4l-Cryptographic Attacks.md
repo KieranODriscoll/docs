@@ -21,4 +21,4 @@
 ## Downgrade attack
 - Instead of using perfectly good encryption, use something that's not so great
 	- Force the systems to downgrade their security
-![[Pasted image 20240909141047.png]]
+![](Pasted%20image%2020240909141047.png)

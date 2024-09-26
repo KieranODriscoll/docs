@@ -104,5 +104,5 @@
 	- Company budget
 - Medium sophistication
 	- May not have IT training or knowledge
-![[Pasted image 20240907121344.png]]
+![](Pasted%20image%2020240907121344.png)
 - Does not necessarily have malicious intent and uses unauthorized or unapproved devices, software, or services within an organization for convenience, productivity, or innovation purposes.

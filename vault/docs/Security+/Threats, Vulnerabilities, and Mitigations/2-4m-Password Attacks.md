@@ -30,5 +30,3 @@
 	- Obtain the list of users and hashes
 	- Calculate a password hash, compare it to a stored hash
 	- Large computational resource requirements
-## Related
-[[1.2i - Password Attacks]]

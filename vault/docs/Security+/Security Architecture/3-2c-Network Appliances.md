@@ -17,15 +17,15 @@
 ## Forward Proxy
 - An "internal" proxy
 - Commonly used to protect and control user access to the interner
-- ![[Pasted image 20240913182644.png]]
+- ![](Pasted%20image%2020240913182644.png)
 ## Reverse Proxy
 - Inbound traffic from the Internet to your internal service
-- ![[Pasted image 20240913182722.png]]
+- ![](Pasted%20image%2020240913182722.png)
 ## Open Proxy
 - A third-party, uncontrolled proxy
 - Can be a significant security concern
 - Often used to circumvent existing security controls
-- ![[Pasted image 20240913182804.png]]
+- ![](Pasted%20image%2020240913182804.png)
 ## Application proxies
 - One of the simplex "proxies" is NAT
 	- A network-level proxy

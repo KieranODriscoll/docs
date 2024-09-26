@@ -19,7 +19,7 @@
 	- Lots of personal data in them
 - Session IDs are often stored in the cookie
 	- Maintains sessions across multiple browser sessions
-![[Pasted image 20240909134814.png]]![[Pasted image 20240909134833.png]]
+![](Pasted%20image%2020240909134814.png)![](Pasted%20image%2020240909134833.png)
 ## Header manipulation
 - Information gathering
 	- Wireshark, Kismet

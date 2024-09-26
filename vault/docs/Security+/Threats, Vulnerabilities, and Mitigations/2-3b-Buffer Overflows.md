@@ -9,4 +9,4 @@
 	- Takes time to make it do what you want
 - A really useful buffer overflow is repeatable
 	- Which means that a system can be compromised
-![[Pasted image 20240908115339.png]]
+![](Pasted%20image%2020240908115339.png)

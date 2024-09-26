@@ -69,7 +69,7 @@
 - Each application instance has its own operating system
 	- Adds overhead and complexity
 	- Virtualization is relatively expensive
-- ![[Pasted image 20240913135753.png]]
+- ![](Pasted%20image%2020240913135753.png)
 ### Application containerization
 - Container
 	- Contains everything you need to run an application
@@ -82,7 +82,7 @@
 	- A standard for portability
 	- Lightweight, uses the host kernel
 	- Secure separation between applications
-- ![[Pasted image 20240913135759.png]]
+- ![](Pasted%20image%2020240913135759.png)
 ### IoT (Internet of Things)
 - Sensors
 	- Heating and cooling, lighting
