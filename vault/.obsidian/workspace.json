@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Reports/2 - Penetration Test Report.md",
+                "file": "docs/Reports/1 - Vulnerability Assessment Report.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Reports/2 - Penetration Test Report.md",
+                "file": "docs/Reports/1 - Vulnerability Assessment Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Reports/2 - Penetration Test Report.md",
+                "file": "docs/Reports/1 - Vulnerability Assessment Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Reports/2 - Penetration Test Report.md"
+                "file": "docs/Reports/1 - Vulnerability Assessment Report.md"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "f475241ce297ebdd",
   "lastOpenFiles": [
+    "docs/Reports/3 - Incident Response Plan.md",
+    "docs/Reports/2 - Penetration Test Report.md",
     "assets/Pasted image 20241004162859.png",
     "assets/Pasted image 20241004162824.png",
     "assets/Pasted image 20241004162759.png",
@@ -158,11 +160,9 @@
     "assets/Pasted image 20241004162659.png",
     "assets/Pasted image 20241004162604.png",
     "docs/Reports/1 - Vulnerability Assessment Report.md",
-    "docs/Reports/2 - Penetration Test Report.md",
     "assets/Pasted image 20241004155356.png",
     "assets/Pasted image 20241004155340.png",
     "assets/Pasted image 20241004155335.png",
-    "assets/Pasted image 20241004155328.png",
     "docs/Reports",
     "docs/CertNotes/Network+/5 - Network Troubleshooting and Tools/5-5-Network Troubleshooting.md",
     "docs/CertNotes/Network+/5 - Network Troubleshooting and Tools/Commands.md",
