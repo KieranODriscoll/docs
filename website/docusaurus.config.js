@@ -65,6 +65,12 @@ const config = {
             label: 'Certifcation Notes',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'reportsSidebar',
+            position: 'left',
+            label: 'Reports',
+          },
+          {
             href: 'https://github.com/KieranODriscoll',
             label: 'GitHub',
             position: 'right',
