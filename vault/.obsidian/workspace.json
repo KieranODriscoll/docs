@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Reports/2 - Penetration Test Report.md",
+                "file": "docs/Reports/4 - Incident Response Report.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Reports/2 - Penetration Test Report.md",
+                "file": "docs/Reports/4 - Incident Response Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Reports/2 - Penetration Test Report.md",
+                "file": "docs/Reports/4 - Incident Response Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Reports/2 - Penetration Test Report.md"
+                "file": "docs/Reports/4 - Incident Response Report.md"
               }
             }
           }
@@ -150,19 +150,21 @@
   },
   "active": "f475241ce297ebdd",
   "lastOpenFiles": [
-    "docs/Reports/1 - Vulnerability Assessment Report.md",
+    "assets/Pasted image 20241004164827.png",
+    "assets/Pasted image 20241004164821.png",
+    "assets/Pasted image 20241004164816.png",
+    "assets/Pasted image 20241004164804.png",
+    "assets/Pasted image 20241004164800.png",
+    "assets/Pasted image 20241004164749.png",
     "docs/Reports/3 - Incident Response Plan.md",
+    "docs/Reports/4 - Incident Response Report.md",
     "docs/Reports/2 - Penetration Test Report.md",
+    "docs/Reports/1 - Vulnerability Assessment Report.md",
     "assets/Pasted image 20241004162859.png",
     "assets/Pasted image 20241004162824.png",
     "assets/Pasted image 20241004162759.png",
     "assets/Pasted image 20241004162739.png",
     "assets/Pasted image 20241004162720.png",
-    "assets/Pasted image 20241004162659.png",
-    "assets/Pasted image 20241004162604.png",
-    "assets/Pasted image 20241004155356.png",
-    "assets/Pasted image 20241004155340.png",
-    "assets/Pasted image 20241004155335.png",
     "docs/Reports",
     "docs/CertNotes/Network+/5 - Network Troubleshooting and Tools/5-5-Network Troubleshooting.md",
     "docs/CertNotes/Network+/5 - Network Troubleshooting and Tools/Commands.md",
@@ -189,8 +191,6 @@
     "docs/CertNotes/Network+/1 - Networking Concepts/1-9-Definitions.md",
     "docs/CertNotes/Network+/1 - Networking Concepts/1-8-Cloud Models.md",
     "docs/CertNotes/Network+/1 - Networking Concepts/1-7-Network Architectures.md",
-    "docs/CertNotes/Network+/1 - Networking Concepts/1-6-Important Protocol Overview.md",
-    "docs/CertNotes/Network+/1 - Networking Concepts/1-4-IP Addressing.md",
     "docs/CertNotes/Network+/1 - Networking Concepts",
     "docs/TryHackMe/Junior Pentester Learning Path",
     "docs/TryHackMe",
