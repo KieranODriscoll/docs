@@ -33,9 +33,9 @@ export default function Home() {
           <Heading as="h1" className="hero__title">
             Certifications
           </Heading>
-          <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1f110636-5555-468b-ba57-86ae207109c0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-          <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="aea197e5-0425-408d-9047-39d929dc900e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
         </div>
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1f110636-5555-468b-ba57-86ae207109c0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+        <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="aea197e5-0425-408d-9047-39d929dc900e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
       </main>
     </Layout>
   );
