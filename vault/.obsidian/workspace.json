@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-5c-Hardening Techniques.md",
+                "file": "docs/Reports/Vulnerability Assessment Report.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-5c-Hardening Techniques.md",
+                "file": "docs/Reports/Vulnerability Assessment Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-5c-Hardening Techniques.md",
+                "file": "docs/Reports/Vulnerability Assessment Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-5c-Hardening Techniques.md"
+                "file": "docs/Reports/Vulnerability Assessment Report.md"
               }
             }
           }
@@ -150,51 +150,51 @@
   },
   "active": "f475241ce297ebdd",
   "lastOpenFiles": [
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-5b-Mitigation Techniques.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-5a-Segmentation and Access Control.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4n-Indicators of Compromise.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4m-Password Attacks.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4l-Cryptographic Attacks.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4k-Application Attacks.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4j-Malicious Code.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4i-Replay Attacks.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4h-On-path Attacks.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4g-Wireless Attacks.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4f-DNS Attacks.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4e-Denial of Service.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4d-Physical Attacks.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4c-Other Malware Types.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4b-Spyware and Bloatware.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4a-Viruses and Worms.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-4-Overview of Malware.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3m-Mobile Device Vulnerabilities.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3n-Zero-day Vulnerabilities.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3l-Misconfiguration Vulnerabilities.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3k-Supply Chain Vulnerabilities.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3j-Cloud-specific Vulnerabilities.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3i-Virtualization Vulnerabilities.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3h-Hardware Vulnerabilities.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3g-Cross-site Scripting.md",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations/2-3f-SQL Injection.md",
-    "assets/Pasted image 20240923142605.png",
-    "assets/Pasted image 20240923142553.png",
-    "assets/Pasted image 20240923142545.png",
-    "assets/Pasted image 20240923142532.png",
-    "assets/Pasted image 20240919204941.png",
-    "assets/Pasted image 20240919204821.png",
-    "assets/Pasted image 20240607142022.png",
-    "assets/Pasted image 20240607142113.png",
-    "assets/Pasted image 20240606155857.png",
-    "assets/Pasted image 20240606152330.png",
+    "assets/Pasted image 20241004155356.png",
+    "assets/Pasted image 20241004155340.png",
+    "assets/Pasted image 20241004155335.png",
+    "assets/Pasted image 20241004155328.png",
+    "assets/Pasted image 20241004155324.png",
+    "assets/Pasted image 20241004155320.png",
+    "assets/Pasted image 20241004155204.png",
+    "assets/Pasted image 20241004155048.png",
+    "assets/Pasted image 20241004155041.png",
+    "assets/Pasted image 20241004155036.png",
+    "assets/Pasted image 20241004155031.png",
+    "docs/Reports/Vulnerability Assessment Report.md",
+    "docs/Reports",
+    "docs/CertNotes/Network+/5 - Network Troubleshooting and Tools/5-5-Network Troubleshooting.md",
+    "docs/CertNotes/Network+/5 - Network Troubleshooting and Tools/Commands.md",
+    "docs/CertNotes/Network+/5 - Network Troubleshooting and Tools/5-4-Wireless Troubleshooting.md",
+    "docs/CertNotes/Network+/5 - Network Troubleshooting and Tools/5-3-Software Tools.md",
+    "docs/CertNotes/Network+/5 - Network Troubleshooting and Tools/5-2-Wired Network Troubleshooting.md",
+    "docs/CertNotes/Network+/5 - Network Troubleshooting and Tools/5-1-Network Troubleshooting Methodology.md",
+    "docs/CertNotes/Network+/5 - Network Troubleshooting and Tools",
+    "docs/CertNotes/Network+/4 - Network Security/4-4-Remote Access.md",
+    "docs/CertNotes/Network+/4 - Network Security/4-5-Physical Security.md",
+    "docs/CertNotes/Network+/4 - Network Security/4-3-Hardening.md",
+    "docs/CertNotes/Network+/4 - Network Security/4-2-Attacks.md",
+    "docs/CertNotes/Network+/4 - Network Security/4-1-Security Concepts.md",
+    "docs/CertNotes/Network+/4 - Network Security",
+    "docs/CertNotes/Network+/3 - Network Operations/3-3-Infrastructure Concepts.md",
+    "docs/CertNotes/Network+/3 - Network Operations/3-2-Policies, Procedures and Documentation.md",
+    "docs/CertNotes/Network+/3 - Network Operations/3-1-Monitoring.md",
+    "docs/CertNotes/Network+/3 - Network Operations",
+    "docs/CertNotes/Network+/2 - Infrastructure/2-4-Wireless.md",
+    "docs/CertNotes/Network+/2 - Infrastructure/2-2-Routing.md",
+    "docs/CertNotes/Network+/2 - Infrastructure/2-3-Ethernet.md",
+    "docs/CertNotes/Network+/2 - Infrastructure/2-1-Networking Devices.md",
+    "docs/CertNotes/Network+/2 - Infrastructure",
+    "docs/CertNotes/Network+/1 - Networking Concepts/1-9-Definitions.md",
+    "docs/CertNotes/Network+/1 - Networking Concepts/1-8-Cloud Models.md",
+    "docs/CertNotes/Network+/1 - Networking Concepts/1-7-Network Architectures.md",
+    "docs/CertNotes/Network+/1 - Networking Concepts/1-6-Important Protocol Overview.md",
+    "docs/CertNotes/Network+/1 - Networking Concepts/1-4-IP Addressing.md",
+    "docs/CertNotes/Network+/1 - Networking Concepts/1-5-Internet Protocol.md",
+    "docs/CertNotes/Network+/1 - Networking Concepts",
     "docs/TryHackMe/Junior Pentester Learning Path",
     "docs/TryHackMe",
     "docs/Security+/Threats, Vulnerabilities, and Mitigations",
-    "docs/Security+/Security Architecture",
-    "docs/Security+/Other",
-    "docs/Security+/Governance, Risk and Compliance",
-    "docs/Security+/Operations and Incident Response",
-    "docs/Security+/General Security Concepts",
-    "docs/Security+/(OLD) Attacks, Threats, and Vulnerabilities",
-    "docs/Security+"
+    "docs/Security+/Security Architecture"
   ]
 }
