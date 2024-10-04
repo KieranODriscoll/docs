@@ -85,7 +85,6 @@ Utilizing a public exploit in Metasploit framework, it is trivial in gaining acc
 **Affected Systems**: 10.0.69.10, 10.0.69.11  
 **Description**: A flaw in the Drupal service allows for remote code execution without authorization. This can result in unauthorized access to the system, denial of service and other malicious outcomes.  
 **Proof of concept**:
-
 ![Pasted_image_20241004162659](//assets/Pasted_image_20241004162659.webp)
 Utilizing another public exploit in Metasploit framework, it becomes trivial to gain access to the target system as the www-data user.  
 **Recommendation**: Update Drupal to the latest version to take advantage of the latest security updates.
