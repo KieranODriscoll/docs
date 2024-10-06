@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Reports/4 - Incident Response Report.md",
+                "file": "docs/TryHackMe/SOC Level 1/1-2-Pyramid-of-Pain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Reports/4 - Incident Response Report.md",
+                "file": "docs/TryHackMe/SOC Level 1/1-2-Pyramid-of-Pain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Reports/4 - Incident Response Report.md",
+                "file": "docs/TryHackMe/SOC Level 1/1-2-Pyramid-of-Pain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Reports/4 - Incident Response Report.md"
+                "file": "docs/TryHackMe/SOC Level 1/1-2-Pyramid-of-Pain.md"
               }
             }
           }
@@ -150,21 +150,26 @@
   },
   "active": "f475241ce297ebdd",
   "lastOpenFiles": [
+    "docs/TryHackMe/Junior Pentester Learning Path/Threat Modelling & Incident Response.md",
+    "docs/TryHackMe/Junior Pentester Learning Path/Content Discovery.md",
+    "docs/TryHackMe/SOC Level 1/1-2-Pyramid-of-Pain.md",
+    "assets/Pasted image 20241006133453.png",
+    "assets/Pasted image 20241006131815.png",
+    "assets/Pasted image 20241006115948.png",
+    "assets/Pasted image 20241006112608.png",
+    "assets/Pasted image 20241006112558.png",
+    "docs/Reports/4 - Incident Response Report.md",
+    "docs/TryHackMe/SOC Level 1/Untitled",
+    "docs/TryHackMe/Untitled/Untitled",
+    "docs/TryHackMe/SOC Level 1",
     "assets/Pasted image 20241004164827.png",
     "assets/Pasted image 20241004164821.png",
     "assets/Pasted image 20241004164816.png",
     "assets/Pasted image 20241004164804.png",
     "assets/Pasted image 20241004164800.png",
-    "assets/Pasted image 20241004164749.png",
     "docs/Reports/3 - Incident Response Plan.md",
-    "docs/Reports/4 - Incident Response Report.md",
     "docs/Reports/2 - Penetration Test Report.md",
     "docs/Reports/1 - Vulnerability Assessment Report.md",
-    "assets/Pasted image 20241004162859.png",
-    "assets/Pasted image 20241004162824.png",
-    "assets/Pasted image 20241004162759.png",
-    "assets/Pasted image 20241004162739.png",
-    "assets/Pasted image 20241004162720.png",
     "docs/Reports",
     "docs/CertNotes/Network+/5 - Network Troubleshooting and Tools/5-5-Network Troubleshooting.md",
     "docs/CertNotes/Network+/5 - Network Troubleshooting and Tools/Commands.md",
@@ -189,12 +194,7 @@
     "docs/CertNotes/Network+/2 - Infrastructure/2-1-Networking Devices.md",
     "docs/CertNotes/Network+/2 - Infrastructure",
     "docs/CertNotes/Network+/1 - Networking Concepts/1-9-Definitions.md",
-    "docs/CertNotes/Network+/1 - Networking Concepts/1-8-Cloud Models.md",
-    "docs/CertNotes/Network+/1 - Networking Concepts/1-7-Network Architectures.md",
     "docs/CertNotes/Network+/1 - Networking Concepts",
-    "docs/TryHackMe/Junior Pentester Learning Path",
-    "docs/TryHackMe",
-    "docs/Security+/Threats, Vulnerabilities, and Mitigations",
-    "docs/Security+/Security Architecture"
+    "docs/TryHackMe/Junior Pentester Learning Path"
   ]
 }

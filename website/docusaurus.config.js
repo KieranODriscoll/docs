@@ -71,6 +71,12 @@ const config = {
             label: 'Reports',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'thmSidebar',
+            position: 'left',
+            label: 'TryHackMe',
+          },
+          {
             href: 'https://github.com/KieranODriscoll',
             label: 'GitHub',
             position: 'right',
