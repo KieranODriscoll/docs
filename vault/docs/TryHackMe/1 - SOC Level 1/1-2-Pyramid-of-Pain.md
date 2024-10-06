@@ -48,7 +48,7 @@
 		- Useful to see if a process communicates with another host
 	- DNS Requets
 		- Malware often makes DNS requests to check for internet connectivity
-## Host Artificats
+## Host Artifacts (Annoying) 
 - Yellow Zone
 - Attackers will feel a little more annoyed and frustrated if you can detect the attack
 - They will need to circle back and change the attack tool and methodologies which is time-consuming
