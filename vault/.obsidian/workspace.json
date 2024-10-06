@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/TryHackMe/SOC Level 1/1-2-Pyramid-of-Pain.md",
+                "file": "docs/TryHackMe/1 - SOC Level 1/1-3-Cyber-Kill-Chain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/TryHackMe/SOC Level 1/1-2-Pyramid-of-Pain.md",
+                "file": "docs/TryHackMe/1 - SOC Level 1/1-3-Cyber-Kill-Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/TryHackMe/SOC Level 1/1-2-Pyramid-of-Pain.md",
+                "file": "docs/TryHackMe/1 - SOC Level 1/1-3-Cyber-Kill-Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/TryHackMe/SOC Level 1/1-2-Pyramid-of-Pain.md"
+                "file": "docs/TryHackMe/1 - SOC Level 1/1-3-Cyber-Kill-Chain.md"
               }
             }
           }
@@ -148,11 +148,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f475241ce297ebdd",
+  "active": "68fb4ed7b1f6299d",
   "lastOpenFiles": [
-    "docs/TryHackMe/Junior Pentester Learning Path/Threat Modelling & Incident Response.md",
-    "docs/TryHackMe/Junior Pentester Learning Path/Content Discovery.md",
-    "docs/TryHackMe/SOC Level 1/1-2-Pyramid-of-Pain.md",
+    "docs/TryHackMe/1 - SOC Level 1/1-2-Pyramid-of-Pain.md",
+    "docs/TryHackMe/1 - SOC Level 1/1-3-Cyber-Kill-Chain.md",
+    "docs/TryHackMe/2 - Junior Pentester Learning Path/Threat Modelling & Incident Response.md",
+    "docs/TryHackMe/2 - Junior Pentester Learning Path/Content Discovery.md",
     "assets/Pasted image 20241006133453.png",
     "assets/Pasted image 20241006131815.png",
     "assets/Pasted image 20241006115948.png",
@@ -161,7 +162,7 @@
     "docs/Reports/4 - Incident Response Report.md",
     "docs/TryHackMe/SOC Level 1/Untitled",
     "docs/TryHackMe/Untitled/Untitled",
-    "docs/TryHackMe/SOC Level 1",
+    "docs/TryHackMe/1 - SOC Level 1",
     "assets/Pasted image 20241004164827.png",
     "assets/Pasted image 20241004164821.png",
     "assets/Pasted image 20241004164816.png",
@@ -193,8 +194,7 @@
     "docs/CertNotes/Network+/2 - Infrastructure/2-3-Ethernet.md",
     "docs/CertNotes/Network+/2 - Infrastructure/2-1-Networking Devices.md",
     "docs/CertNotes/Network+/2 - Infrastructure",
-    "docs/CertNotes/Network+/1 - Networking Concepts/1-9-Definitions.md",
     "docs/CertNotes/Network+/1 - Networking Concepts",
-    "docs/TryHackMe/Junior Pentester Learning Path"
+    "docs/TryHackMe/2 - Junior Pentester Learning Path"
   ]
 }
