@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/TryHackMe/1 - SOC Level 1/1-3-Cyber-Kill-Chain.md",
+                "file": "docs/TryHackMe/1 - SOC Level 1/1-4-Unified-Kill-Chain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/TryHackMe/1 - SOC Level 1/1-3-Cyber-Kill-Chain.md",
+                "file": "docs/TryHackMe/1 - SOC Level 1/1-4-Unified-Kill-Chain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/TryHackMe/1 - SOC Level 1/1-3-Cyber-Kill-Chain.md",
+                "file": "docs/TryHackMe/1 - SOC Level 1/1-4-Unified-Kill-Chain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/TryHackMe/1 - SOC Level 1/1-3-Cyber-Kill-Chain.md"
+                "file": "docs/TryHackMe/1 - SOC Level 1/1-4-Unified-Kill-Chain.md"
               }
             }
           }
@@ -150,10 +150,14 @@
   },
   "active": "f475241ce297ebdd",
   "lastOpenFiles": [
+    "assets/Pasted image 20241006200523.png",
+    "assets/Pasted image 20241006195817.png",
+    "assets/Pasted image 20241006192819.png",
+    "docs/TryHackMe/1 - SOC Level 1/1-3-Cyber-Kill-Chain.md",
+    "docs/TryHackMe/1 - SOC Level 1/1-4-Unified-Kill-Chain.md",
     "assets/Pasted image 20241006151002.png",
     "assets/Pasted image 20241006141033.png",
     "docs/TryHackMe/1 - SOC Level 1/1-2-Pyramid-of-Pain.md",
-    "docs/TryHackMe/1 - SOC Level 1/1-3-Cyber-Kill-Chain.md",
     "docs/TryHackMe/2 - Junior Pentester Learning Path/Threat Modelling & Incident Response.md",
     "docs/TryHackMe/2 - Junior Pentester Learning Path/Content Discovery.md",
     "assets/Pasted image 20241006133453.png",
@@ -166,9 +170,6 @@
     "docs/TryHackMe/Untitled/Untitled",
     "docs/TryHackMe/1 - SOC Level 1",
     "assets/Pasted image 20241004164827.png",
-    "assets/Pasted image 20241004164821.png",
-    "assets/Pasted image 20241004164816.png",
-    "assets/Pasted image 20241004164804.png",
     "docs/Reports/3 - Incident Response Plan.md",
     "docs/Reports/2 - Penetration Test Report.md",
     "docs/Reports/1 - Vulnerability Assessment Report.md",
@@ -192,7 +193,6 @@
     "docs/CertNotes/Network+/3 - Network Operations",
     "docs/CertNotes/Network+/2 - Infrastructure/2-4-Wireless.md",
     "docs/CertNotes/Network+/2 - Infrastructure/2-2-Routing.md",
-    "docs/CertNotes/Network+/2 - Infrastructure/2-3-Ethernet.md",
     "docs/CertNotes/Network+/2 - Infrastructure",
     "docs/CertNotes/Network+/1 - Networking Concepts",
     "docs/TryHackMe/2 - Junior Pentester Learning Path"
