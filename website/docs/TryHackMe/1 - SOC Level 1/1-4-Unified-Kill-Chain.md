@@ -1,6 +1,6 @@
 # 1.4 - Unified Kill Chain
 ## Introduction
-![](assets/Pasted%20image%2020241006192819.png)
+![Pasted_image_20241006192819](//assets/Pasted_image_20241006192819.webp)
 - Understanding the behaviors, objectives, and methodologies of a cyber threat is a vital step to establishing a strong cybersecurity defense (known as a cybersecurity posture)
 ### Learning Objectives
 - Understanding why frameworks such as the UKC are important and helpful in establishing a good cybersecurity posture
@@ -28,7 +28,7 @@
 - UKC as 18 phases to an attack: Reconnaissance to data exfiltration and understanding an attacker's motive
 - Phases are grouped together in this room into a few areas of focus for brevity
 - Modern and extremely detailed
-- ![](assets/Pasted%20image%2020241006195817.png)
+![Pasted_image_20241006195817](//assets/Pasted_image_20241006195817.webp)
 ### Benefits of UKC
 - Modern
 - Extremely detailed
@@ -38,7 +38,7 @@
 ## Phase: In (Initial Foothold)
 - Focuses on the phases for an attacker to gain access to system or network
 - Attackers employ numerous tactics to investigate systems for potential vulnerabilities that can be exploited to gain a foothold
-- ![](assets/Pasted%20image%2020241006200523.png)
+![Pasted_image_20241006200523](//assets/Pasted_image_20241006200523.webp)
 - This series of phases also accommodates for an attacker creating a form of persistence
 ### Reconnaissance ([MITRE Tactic TA0043](https://attack.mitre.org/tactics/TA0043/))
 - Describes the techniques that an adversary employs to gather information relating to their target
@@ -91,7 +91,7 @@
 - Follows a successful foothold being established on the target network0
 - Would seek to gain additional access and privileges to systems and data
 - Attacker would set up a base on one system to act as their pivot point and gain info about internal network
-- ![](assets/Pasted%20image%2020241010105130.png)
+![Pasted_image_20241010105130](//assets/Pasted_image_20241010105130.webp)
 ### Pivoting ([MITRE Tactic TA0008](https://attack.mitre.org/tactics/TA0008/))
 - Once access has been achieved
 - Use system as a staging site and tunnel between their C2 and the victim's network

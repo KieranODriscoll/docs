@@ -95,3 +95,8 @@
 - Overwrite or corrupt data
 ## Practical Analysis
 ![Pasted_image_20241006151002](//assets/Pasted_image_20241006151002.webp)
+## Conclusion
+- Cyber kill chain has not been updated since its establishment
+- Does not protect against insider threats
+- Main focus is on malware delivery and network security
+- Rely on Cyber kill chain, MITRE ATT&CK and Unified Kill Chain to apply a more comprehensive approach to your defense methodologies
