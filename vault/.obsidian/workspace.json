@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/TryHackMe/1 - SOC Level 1/Rooms/Summit-Room.md",
+                "file": "docs/TryHackMe/1 - SOC Level 1/1-7-Summit-Room.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "923c60b5c514ca35",
+            "id": "6042a52ef5ddd210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/TryHackMe/1 - SOC Level 1/1-7-Summit-Room.md",
+                "file": "docs/TryHackMe/1 - SOC Level 1/1-2-Pyramid-of-Pain.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,10 +160,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "923c60b5c514ca35",
+  "active": "f475241ce297ebdd",
   "lastOpenFiles": [
     "docs/TryHackMe/1 - SOC Level 1/Rooms/Summit-Room.md",
     "docs/TryHackMe/1 - SOC Level 1/1-7-Summit-Room.md",
+    "docs/TryHackMe/1 - SOC Level 1/1-2-Pyramid-of-Pain.md",
     "docs/TryHackMe/1 - SOC Level 1/Rooms",
     "assets/Pasted image 20241011104333.png",
     "assets/Pasted image 20241011103943.png",
@@ -176,7 +176,6 @@
     "assets/Pasted image 20241011101215.png",
     "assets/Pasted image 20241011100716.png",
     "assets/Pasted image 20241011100559.png",
-    "docs/TryHackMe/1 - SOC Level 1/1-2-Pyramid-of-Pain.md",
     "docs/TryHackMe/1 - SOC Level 1/1-6-MITRE.md",
     "docs/TryHackMe/1 - SOC Level 1/1-4-Unified-Kill-Chain.md",
     "docs/TryHackMe/1 - SOC Level 1/1-5-Diamond-Model.md",
