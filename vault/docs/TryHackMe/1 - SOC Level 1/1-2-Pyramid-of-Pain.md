@@ -1,4 +1,4 @@
-# 1.2 Pyramid of Pain
+# 1.2 - Pyramid of Pain
 ## Introduction
 - Pyramid of Pain is being applied to cybersecurity solutions to improve the effectiveness of CTI (Cyber Threat Intelligence), threat hunting, and incident response exercises
 ## Hash Values (Trivial)
