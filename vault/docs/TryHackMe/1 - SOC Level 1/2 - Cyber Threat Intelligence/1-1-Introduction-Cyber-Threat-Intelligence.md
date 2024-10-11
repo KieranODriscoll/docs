@@ -28,3 +28,51 @@
 - **Technical Intel** - Looks into evidence and artefacts of attack used by an adversary. Incident Response teams can use this intel to create a baseline attack surface to analyze and develop defense mechanisms
 - **Tactical Intel** - Assesses adversaries' tactics, techniques, and procedures (TTPs). This intel can strengthen security controls and address vulnerabilities through real-time investigations
 - **Operational Intel** - Looks into an adversary's specific motives and intent to perform an attack. Security teams may use this intel to understand the critical assets available in the organization (people, processes and technologies) that may be targeted
+## CTI Lifecycle
+- Threat into is a data-churning process that transforms raw data into contextualized and action-oriented insights geared towards triaging security incidents
+- Transformational process follows a six-phase cycle:
+	- ![](assets/Pasted%20image%2020241011153730.png)
+### Direction
+- Objectives and goals defined with the following parameters
+	- Information assets and business processes that require defending
+	- Potential impact to be experienced on losing the assets or through process interruptions
+	- Sources of data and intel to be used toward protection
+	- Tools and resources that are required to defend the assets
+- Allows security analysts to pose questions related to investigating incidents
+### Collection
+- Gather the required data to address the defined objectives
+- Collected using commercial, private or open-source available
+- Since the volume of data analysts usually face, recommended to automate this phase to provide time for triaging incidents
+### Processing
+- Raw logs, vulnerability information, malware and network traffic usually comes in different forms and may be disconnected when used to investigate an incident
+- Ensures that the data is extracted, sorted, organized, correlated with appropriate tags
+- Presented visually in an understandable format
+- SIEMs are valuable tools for achieving this and allowing quick parsing of data
+### Analysis
+- Decisions to be made may involve:
+	- Investigating a potential threat through uncovering indicators and attack patterns
+	- Defining an action plan to avert an attack and defend the infrastructure
+	- Strengthening security controls or justifying investment for additional resources
+### Dissemination
+- Different stakeholders will consume the intelligence in varying languages and formats
+- C-suite will want a concise report covering trends in adversary activitions, etc
+- Analysts will want to inform technical team of threat IOCs, adversary TTPs, tactical action plans, etc
+### Feedback
+- Final face, most crucial
+- Feedback from stakeholders to improve the threat intelligence process and implementation of security controls
+- Feedback should be regular interaction between teams to keep lifecycle working
+# CTI Standards & Frameworks
+### MITRE ATT&CK
+- knowledge base of adversary behaviour, focusing on the indicators and tactics
+- Information to be thorough while investigating and tracking adversarial behaviour
+### TAXII
+- [The Trusted Automated eXchange of Indicator Information (TAXII)](https://oasis-open.github.io/cti-documentation/taxii/intro) defines protocols for securely exchanging threat intel to have near real-time detection, prevention and mitigation of threats
+	- **Collection** - threat intel is collected and hosted by a producer upon request by users using a request-response model
+	- **Channel** - threat intel is pushed to users from a central server through a publish-subscribe model
+### STIX
+- [Structured Threat Information Expression (STIX)](https://oasis-open.github.io/cti-documentation/stix/intro) is a language developed for "specification, capture, characteristics and communication of standardized cyber threat information"
+- Provides relationships between sets of threat info such as observables, indicators, adversary TTPs, attack campaigns and more
+### Cyber Kill Chain
+- Breaks down adversary actions into steps
+- ![](assets/Pasted%20image%2020241011155940.png)
+- More information can be found here [1-3-Cyber-Kill-Chain](https://docs.kodriscoll.xyz/TryHackMe/SOC%20Level%201/Cyber%20Defense%20Frameworks/1-3-Cyber-Kill-Chain)
