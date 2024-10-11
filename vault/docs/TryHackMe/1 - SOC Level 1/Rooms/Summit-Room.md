@@ -5,19 +5,19 @@
 - Follow the Pyramid of Pain's ascending priority of indicators to increase cost of operations for adversary
 ## Sample 1
 - ![](assets/Pasted%20image%2020241011094734.png)
-- After scanning the first sample, we are given a page of information about the sample. If we start at the first level of the pyramid which is hashes, we can use the hashes to detect the first sample. For reference: [Pyramid of Pain#Hash Values (Trivial)](docs/TryHackMe/1%20-%20SOC%20Level%201/1-2-Pyramid-of-Pain.md#Hash%20Values%20(Trivial))
+- After scanning the first sample, we are given a page of information about the sample. If we start at the first level of the pyramid which is hashes, we can use the hashes to detect the first sample. For reference: [Pyramid of Pain#Hash Values (Trivial)](/docs/TryHackMe/1%20-%20SOC%20Level%201/1-2-Pyramid-of-Pain.md#Hash%20Values%20(Trivial))
 - Moving to the Detect Hashes page, we can add the 3 hashes to detect the sample, in this case the MD5 hash was added to the detection list and a flag was received in the mail.
 	- ![](assets/Pasted%20image%2020241011095056.png)
 ## Sample2
 - Moving on to sample2, since hash files are a very high confidence indicator that something is malware, you can be sure it is malware if you see the hash again. However, this makes it easy to bypass this detection mechanism since hashes are easily changed. For sample2, a different method of detection is required
-- The next level of the pyramid is IP Addresses, so we will use that for detection this time. After analysis we can see there is some network activity. For Reference [Pyramid of Pain#IP Addresses (Easy)](docs/TryHackMe/1%20-%20SOC%20Level%201/1-2-Pyramid-of-Pain.md#IP%20Addresses%20(Easy))
+- The next level of the pyramid is IP Addresses, so we will use that for detection this time. After analysis we can see there is some network activity. For Reference [Pyramid of Pain#IP Addresses (Easy)](/docs/TryHackMe/1%20-%20SOC%20Level%201/1-2-Pyramid-of-Pain.md#IP%20Addresses%20(Easy))
 	- ![](assets/Pasted%20image%2020241011095524.png)
 - Blocking the Intrabuzz Hosting Limited should be enough to stop this malware
 - Create a firewall rule to block this IP address, and receive the flag in the mail
 	- ![](assets/Pasted%20image%2020241011100215.png)
 	- Egress is the proper rule to implement, preventing any communication leaving the network to the C2 server
 ## Sample 3
-- Moving on to Sample 3, we can no longer use IP address to prevent the malware, so we will work our way further up the pyramid. The next level is Domain Names, for reference [Pyramid of Pain#Domain Name (Simple)](docs/TryHackMe/1%20-%20SOC%20Level%201/1-2-Pyramid-of-Pain.md#Domain%20Name%20(Simple)) 
+- Moving on to Sample 3, we can no longer use IP address to prevent the malware, so we will work our way further up the pyramid. The next level is Domain Names, for reference [Pyramid of Pain#Domain Name (Simple)](/docs/TryHackMe/1%20-%20SOC%20Level%201/1-2-Pyramid-of-Pain.md#Domain%20Name%20(Simple))
 - We can see more network activity after analyzing the malware and we can see one malicious domain name, so lets block it
 	- ![](assets/Pasted%20image%2020241011100559.png)
 - Add the domain name and deny it, don't need the subdomain in the rule
