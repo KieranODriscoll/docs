@@ -1,4 +1,4 @@
-# Diamond Model
+# 1.5 - Diamond Model
 ### Introduction
 - Composed of 4 core features:
 	- Adversary, infrastructure, capability, and victim

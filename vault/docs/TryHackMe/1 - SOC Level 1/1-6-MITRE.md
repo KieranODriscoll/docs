@@ -1,4 +1,4 @@
-# MITRE
+# 1.6 - MITRE
 ## Basic Terminology
 - **APT**
 	- Advanced Persistent Threat
@@ -26,3 +26,36 @@
 - Provided with Pseudocode and a query on how to search for this specific analytic within Splunk
 - ![](assets/Pasted%20image%2020241010135804.png)
 - To take full advantage of CAR, [Full Analytic List](https://car.mitre.org/analytics) or the [CAR ATT&CK® Navigator layer](https://mitre-attack.github.io/attack-navigator/#layerURL=https://raw.githubusercontent.com/mitre-attack/car/master/docs/coverage/car_analytic_coverage_04_05_2022.json) to view all the analytics.
+## MITRE Engage
+- [MITRE ENGAGE](https://engage.mitre.org/)
+- "Framework for planning and discussing adversary engagement operations that empowers you to engage your adversaries and achieve your cybersecurity goals"
+- Considered an **Adversary Engagement Approach** accomplished by the implementation of **Cyber Denial** and **Cyber Deception**
+	- **Cyber Denial** - prevent the adversary's ability to conduct their operations
+	- **Cyber Deception** - intentionally plant artifacts to mislead the adversary
+### Engage Matrix
+- ![](assets/Pasted%20image%2020241010141314.png)
+- **Prepare** - set of operational actions that will lead to your desired outcome (input)
+- **Expose** - adversaries when they trigger your deployed deception activities
+- **Affect** - adversaries by performing actions that will have a negative impact on their operations
+- **Elicit** - information by observing the adversary and learn more about their modus operandi (TTPs)
+- **Understand** - outcomes of the operational actions (output)
+- [Engage Matrix Explorer](https://engage.mitre.org/matrix)
+## MITRE D3FEND
+- [D3FEND](https://d3fend.mitre.org/)
+- A knowledge graph of cybersecurity countermeasures
+- Detection, Denial, Disruption Framework Empowering Network Defense
+- Provides information on what is the technique, how the technique works, things to think about when implementing and how to utilize the technique
+## ATT&CK Emulation Plans
+- [MITRE ENGENUITY](https://mitre-engenuity.org/)
+	- CTID, the Adversary Emulation Library and ATT&CK Emulation Plans
+### CTID
+- Center of Threat-informed Defense
+- Consists of various companies and vendors around the globe
+- Conduct research on cyber threats and their TTPs and share this research
+### Adversary Emulation Library & ATT&CK Emulation Plans
+- [Adversary Emulation Library](https://mitre-engenuity.org/cybersecurity/center-for-threat-informed-defense/adversary-emulation-library/) is a public library making adversary emulation plans a free resource
+- Emulation plans are step-by-step guide on how to mimic the specific threat group
+## ATT&CK and Threat Intelligence
+- **Threat Intelligence (TI)** or **Cyber Threat Intelligence (CTI)** is information or TTPs attributed to the adversary
+- By using TI, defenders, can make better decisions regarding the defensive strategy
+- Goal of threat intelligence is to make the information actionable
