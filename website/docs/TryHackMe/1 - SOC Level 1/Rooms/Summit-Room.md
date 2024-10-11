@@ -23,7 +23,7 @@
 - Add the domain name and deny it, don't need the subdomain in the rule
 ![Pasted_image_20241011100716](//assets/Pasted_image_20241011100716.webp)
 ## Sample 4
-- The next level in the pyramid is Host artifacts so we will use that as the detection method. For reference [Pyramid of Pain#Host Artifacts (Annoying)](/docs/TryHackMe/SOC%20Level%201/Pyramid-of-Pain.md#Host%20Artifacts%20(Annoying))
+- The next level in the pyramid is Host artifacts so we will use that as the detection method. For reference [Pyramid of Pain#Host Artifacts (Annoying)](//docs/TryHackMe/SOC%20Level%201/Pyramid-of-Pain.md#Host%20Artifacts%20(Annoying))
 - Host Artifacts can be things like Registry Values and after the analysis we can see registry activity. So lets attempt to block based on these artifacts
 ![Pasted_image_20241011101215](//assets/Pasted_image_20241011101215.webp)
 - We also see some behaviour analysis which may help as well
@@ -33,7 +33,7 @@
 ![Pasted_image_20241011101653](//assets/Pasted_image_20241011101653.webp)
 - This looks to have worked, as we have received mail for Sphinx
 ## Sample 5
-- Moving on to sample 5, our old tricks will not work anymore so we must move up the pyramid of pain which brings us to Network Artifacts. For reference [Pyramid of Pain#Network Artifacts (Annoying)](/docs/TryHackMe/SOC%20Level%201/Pyramid-of-Pain.md#Network%20Artifacts%20(Annoying))
+- Moving on to sample 5, our old tricks will not work anymore so we must move up the pyramid of pain which brings us to Network Artifacts. For reference [Pyramid of Pain#Network Artifacts (Annoying)](//docs/TryHackMe/SOC%20Level%201/Pyramid-of-Pain.md#Network%20Artifacts%20(Annoying))
 - This stage revolves around finding user-agent strings, c2 information, URI patterns
 - Based on the network log we received, we can see a consistent 97 byte request happening every 30 minutes
 ![Pasted_image_20241011103504](//assets/Pasted_image_20241011103504.webp)
@@ -41,10 +41,10 @@
 ![Pasted_image_20241011103641](//assets/Pasted_image_20241011103641.webp)
 	- This rule above looks to have worked and received mail from Sphinx
 ## Sample 6 - Final Sample
-- Moving back up the pyramid for the final sample, we will have to look at detecting tools (maybe TTPs depending since there are 2 levels left). For reference, [Pyramid of Pain#Tools (Challenging)](/docs/TryHackMe/SOC%20Level%201/Pyramid-of-Pain.md#Tools%20(Challenging))
+- Moving back up the pyramid for the final sample, we will have to look at detecting tools (maybe TTPs depending since there are 2 levels left). For reference, [Pyramid of Pain#Tools (Challenging)](//docs/TryHackMe/SOC%20Level%201/Pyramid-of-Pain.md#Tools%20(Challenging))
 - We have received a command log from Sphinx this time
 ![Pasted_image_20241011103943](//assets/Pasted_image_20241011103943.webp)
-- Reading the email further, it states we will have to do more than just tool detection, so it seems to be focused on the last level of the pyramid. For reference [Pyramid of Pain#TTPs (Tough)](/docs/TryHackMe/SOC%20Level%201/Pyramid-of-Pain.md#TTPs%20(Tough))
+- Reading the email further, it states we will have to do more than just tool detection, so it seems to be focused on the last level of the pyramid. For reference [Pyramid of Pain#TTPs (Tough)](//docs/TryHackMe/SOC%20Level%201/Pyramid-of-Pain.md#TTPs%20(Tough))
 - This involves the entire MITRE ATT&CK Matrix, all steps they take to achieve their goals.
 - We can see above a pattern in the path they use and the name of the log file to attempt to exfiltrate. Lets try blocking this
 ![Pasted_image_20241011104333](//assets/Pasted_image_20241011104333.webp)

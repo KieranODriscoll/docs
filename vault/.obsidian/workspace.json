@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/TryHackMe/1 - SOC Level 1/Rooms/Summit-Room.md",
+                "file": "docs/TryHackMe/1 - SOC Level 1/1-7-Summit-Room.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/TryHackMe/1 - SOC Level 1/Rooms/Summit-Room.md",
+                "file": "docs/TryHackMe/1 - SOC Level 1/1-7-Summit-Room.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/TryHackMe/1 - SOC Level 1/Rooms/Summit-Room.md",
+                "file": "docs/TryHackMe/1 - SOC Level 1/1-7-Summit-Room.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/TryHackMe/1 - SOC Level 1/Rooms/Summit-Room.md"
+                "file": "docs/TryHackMe/1 - SOC Level 1/1-7-Summit-Room.md"
               }
             }
           }
@@ -162,11 +162,11 @@
   },
   "active": "f475241ce297ebdd",
   "lastOpenFiles": [
+    "docs/TryHackMe/1 - SOC Level 1/Rooms/Summit-Room.md",
+    "docs/TryHackMe/1 - SOC Level 1/1-7-Summit-Room.md",
     "docs/CertNotes/Security+/1 - General Security Concepts/1-2a-The CIA Triad.md",
     "docs/TryHackMe/1 - SOC Level 1/1-2-Pyramid-of-Pain.md",
     "docs/CertNotes/Security+/1 - General Security Concepts/1-1-Security Controls.md",
-    "docs/TryHackMe/1 - SOC Level 1/Rooms/Summit-Room.md",
-    "docs/TryHackMe/1 - SOC Level 1/1-7-Summit-Room.md",
     "docs/TryHackMe/1 - SOC Level 1/Rooms",
     "assets/Pasted image 20241011104333.png",
     "assets/Pasted image 20241011103943.png",

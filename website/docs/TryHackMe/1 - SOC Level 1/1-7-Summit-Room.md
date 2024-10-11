@@ -1,4 +1,4 @@
 # 1.7 - Summit (Room)
 
 - In the interest of organizing rooms vs learning modules since some rooms that I may complete are not tied to a learning path, I have created a folder for rooms and will link to the page for each room if it is part of a learning path.
-- [Summit-Room](/docs/TryHackMe/SOC%20Level%201/Rooms/Summit-Room)
+- [Summit-Room](//docs/TryHackMe/SOC%20Level%201/Rooms/Summit-Room)
