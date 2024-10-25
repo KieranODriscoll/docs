@@ -75,7 +75,7 @@ The following tools will be used to assist with the testing:
 **Affected systems**: 10.0.69.10, 10.0.69.11  
 **Description**: This vulnerability allows for the arbitrary reading or writing of files to the server without authorized access. This can result in unauthorized access using a reverse shell or the loss of confidentiality of the information stored on the system.  
 **Proof of Concept:**
-![](assets/Pasted%20image%2020241004162604.png)
+![](../../assets/Pasted%20image%2020241004162604.png)
 Utilizing a public exploit in Metasploit framework, it is trivial in gaining access to the webserver as the www-data user.
 **Recommendation**: Update ProFTPD to the latest version to take advantage of the latest security updates.
 
@@ -85,7 +85,7 @@ Utilizing a public exploit in Metasploit framework, it is trivial in gaining acc
 **Affected Systems**: 10.0.69.10, 10.0.69.11  
 **Description**: A flaw in the Drupal service allows for remote code execution without authorization. This can result in unauthorized access to the system, denial of service and other malicious outcomes. 
 **Proof of concept**:
-![](assets/Pasted%20image%2020241004162659.png)
+![](../../assets/Pasted%20image%2020241004162659.png)
 Utilizing another public exploit in Metasploit framework, it becomes trivial to gain access to the target system as the www-data user.
 **Recommendation**: Update Drupal to the latest version to take advantage of the latest security updates.
 
@@ -95,7 +95,7 @@ Utilizing another public exploit in Metasploit framework, it becomes trivial to 
 **Affected Systems**: 10.0.69.10  
 **Description**: Utilizing a flaw in the polkit’s pkexec allowing unprivileged users to run privileged commands, which results in an escalation of privileges to root level.  
 **Proof of concept**:  
-![](assets/Pasted%20image%2020241004162720.png)
+![](../../assets/Pasted%20image%2020241004162720.png)
 **Recommendations**: Update Linux version to one that is still receiving security updates and takes advantage of any security improvements from modern OS architecture.
 
 ### **Vulnerability 4: UnrealIRCD Backdoor**  
@@ -104,7 +104,7 @@ Utilizing another public exploit in Metasploit framework, it becomes trivial to 
 **Affected system**: 10.0.69.10  
 **Description**: An externally introduced backdoor allows for a remote code execution that can be used to access the machine as the user that is running the service  
 **Proof of concept:**  
-![](assets/Pasted%20image%2020241004162739.png)
+![](../../assets/Pasted%20image%2020241004162739.png)
 Backdoor allows access to the user that is running UnrealIRC, from here privilege escalation may be possible.  
 **Recommendation**: Update UnrealIRC to the latest version to remove the backdoor.
 
@@ -113,7 +113,7 @@ Backdoor allows access to the user that is running UnrealIRC, from here privileg
 **Affected system**: 10.0.69.11  
 **Description**: The credentials for accessing VNC are weak and lead to a root terminal  
 **Proof of concept**:  
-![](assets/Pasted%20image%2020241004162759.png)
+![](../../assets/Pasted%20image%2020241004162759.png)
 **Recommendation**: Secure VNC access behind stronger credentials. Ensure that VNC is not running at root level.
 
 ### **Vulnerability 6: bWAPP Unrestricted file upload**  
@@ -121,13 +121,13 @@ Backdoor allows access to the user that is running UnrealIRC, from here privileg
 **Affected Systems**: 10.0.69.11, 10.0.69.8  
 **Description**: Attacker is allowed to upload any file they want to the affected server  
 **Proof of Concept**:  
-![](assets/Pasted%20image%2020241004162824.png)
+![](../../assets/Pasted%20image%2020241004162824.png)
 ### **Vulnerability 7: File and Directory Traversal**  
 **Severity**: High  
 **Affected Systems**: 10.0.69.11, 10.0.69.8  
 **Description**: An attacker is able to format a parameter in the URL to traverse the entire systems file structure and view contents that www-data has access to.  
 **Proof of concept**:  
-![](assets/Pasted%20image%2020241004162859.png)
+![](../../assets/Pasted%20image%2020241004162859.png)
 
 ### **Vulnerability 8: Anonymous FTP write access**  
 **Severity**: Critical  
