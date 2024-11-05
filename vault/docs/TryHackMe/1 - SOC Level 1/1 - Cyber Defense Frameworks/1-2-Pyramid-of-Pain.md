@@ -33,8 +33,8 @@
 - More of a pain for the attacker to change, as they would need to purchase a domain, register it, modify DNS records
 - Unfortunately for defenders, many DNS providers have loose standards and provide APIs to make it easier for the attacker to change the domain
 - Punycode is a way of converting words that cannot be written in ASCII, into a Unicode ASCII encoding, allowing attackers to make a domain name look very similar to the real thing
-- ![](assets/Pasted%20image%2020241006112558.png)
-- ![](assets/Pasted%20image%2020241006112608.png)
+![](assets/Pasted%20image%2020241006112558.png)
+![](assets/Pasted%20image%2020241006112608.png)
 - Modern web browser are pretty good at converting the obfuscated punycode to its full domain name
 - To detect malicious domains, proxy logs or web server logs acn be used
 - URL Shorteners are another way to hide malicious domain names

@@ -15,7 +15,7 @@
 	- The rule file
 	- Name of the file, directory or process ID to use the rule for
 - Example of a rule
-	- ![](assets/Pasted%20image%2020241104122419.png)
+ ![](assets/Pasted%20image%2020241104122419.png)
 	- Contains both a name and a condition, so this rule is valid. This rule will tell us if the file exists or not. Not very helpful
 ## Expanding on Yara Rules
 - Other conditions:
@@ -34,11 +34,11 @@
 		- Already used true and any of them conditions.
 		- Can also use operators: {'<='}, {'>='}, {'!='}
 		- Example:
-			- ![](assets/Pasted%20image%2020241104124855.png)
+		![](assets/Pasted%20image%2020241104124855.png)
 			- This will look for "Hello World!" and only match if there are less than or equal to 10 occurrences
 		- Other Keywords
 			- and
 			- not
 			- or
 		- Combine multiple conditions with and, not, or
-			- ![](assets/Pasted%20image%2020241104125052.png)
+		![](assets/Pasted%20image%2020241104125052.png)
