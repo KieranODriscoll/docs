@@ -34,13 +34,13 @@ It has been discovered that the three affected systems have many avenues an atta
 ## Appendices
 
 ### Appendix 1 – Ubuntu Wireshark Logs
-![](assets/Pasted%20image%2020241004164749.png)
-![](assets/Pasted%20image%2020241004164800.png)
-![](assets/Pasted%20image%2020241004164804.png)
+![](../../assets/Pasted%20image%2020241004164749.png)
+![](../../assets/Pasted%20image%2020241004164800.png)
+![](../../assets/Pasted%20image%2020241004164804.png)
 
 ### Appendix 2 - Metasploitable
 
-![](assets/Pasted%20image%2020241004164816.png)
-![](assets/Pasted%20image%2020241004164821.png)
+![](../../assets/Pasted%20image%2020241004164816.png)
+![](../../assets/Pasted%20image%2020241004164821.png)
 ## Appendix 3 – BeeBox
-![](assets/Pasted%20image%2020241004164827.png)
+![](../../assets/Pasted%20image%2020241004164827.png)
