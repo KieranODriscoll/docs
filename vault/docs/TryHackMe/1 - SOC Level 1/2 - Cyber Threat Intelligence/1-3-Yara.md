@@ -33,7 +33,7 @@
 	- Conditions
 		- Already used true and any of them conditions.
 		- Can also use operators: {'<='}, {'>='}, {'!='}
-		- Example
+		- Example:
 			- ![](assets/Pasted%20image%2020241104124855.png)
 			- This will look for "Hello World!" and only match if there are less than or equal to 10 occurrences
 		- Other Keywords
