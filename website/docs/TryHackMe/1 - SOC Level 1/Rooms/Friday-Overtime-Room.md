@@ -37,4 +37,4 @@
 - Following the link and looking under details we can find the SHA1 hash and answer the question
 ![Pasted_image_20241104200904](//assets/Pasted_image_20241104200904.webp)
 ## Conclusion
-- That concludes the room, not bad for an easy level difficult and gives a good intro into the analysis of samples.
+- That concludes the room, not bad for an medium level difficult and gives a good intro into the analysis of samples.
