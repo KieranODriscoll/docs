@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/TryHackMe/1 - SOC Level 1/Rooms/Friday-Overtime-Room.md",
+                "file": "docs/TryHackMe/1 - SOC Level 1/2 - Cyber Threat Intelligence/1-3-Yara-Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Friday-Overtime-Room"
+              "title": "1-3-Yara-Introduction"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/TryHackMe/1 - SOC Level 1/Rooms/Friday-Overtime-Room.md",
+                "file": "docs/TryHackMe/1 - SOC Level 1/2 - Cyber Threat Intelligence/1-3-Yara-Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Friday-Overtime-Room"
+              "title": "Backlinks for 1-3-Yara-Introduction"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/TryHackMe/1 - SOC Level 1/Rooms/Friday-Overtime-Room.md",
+                "file": "docs/TryHackMe/1 - SOC Level 1/2 - Cyber Threat Intelligence/1-3-Yara-Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Friday-Overtime-Room"
+              "title": "Outgoing links from 1-3-Yara-Introduction"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/TryHackMe/1 - SOC Level 1/Rooms/Friday-Overtime-Room.md"
+                "file": "docs/TryHackMe/1 - SOC Level 1/2 - Cyber Threat Intelligence/1-3-Yara-Introduction.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Friday-Overtime-Room"
+              "title": "Outline of 1-3-Yara-Introduction"
             }
           }
         ]
@@ -164,23 +164,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6042a52ef5ddd210",
+  "active": "68fb4ed7b1f6299d",
   "lastOpenFiles": [
+    "docs/TryHackMe/1 - SOC Level 1/2 - Cyber Threat Intelligence/1-2-Threat-Intelligence-Tools.md",
+    "docs/TryHackMe/1 - SOC Level 1/2 - Cyber Threat Intelligence/1-1-Introduction-Cyber-Threat-Intelligence.md",
+    "docs/TryHackMe/1 - SOC Level 1/2 - Cyber Threat Intelligence/1-3-Yara-Introduction.md",
+    "docs/TryHackMe/1 - SOC Level 1/Rooms/Friday-Overtime-Room.md",
     "assets/Pasted image 20241104200904.png",
     "assets/Pasted image 20241104200831.png",
     "assets/Pasted image 20241104200340.png",
     "assets/Pasted image 20241104200148.png",
     "assets/Pasted image 20241104195535.png",
     "assets/Pasted image 20241104195351.png",
-    "docs/TryHackMe/1 - SOC Level 1/Rooms/Friday-Overtime-Room.md",
-    "docs/TryHackMe/1 - SOC Level 1/2 - Cyber Threat Intelligence/1-3-Yara.md",
     "assets/Pasted image 20241104125129.png",
     "assets/Pasted image 20241104125052.png",
     "assets/Pasted image 20241104124855.png",
     "assets/Pasted image 20241104124802.png",
-    "assets/Pasted image 20241104124601.png",
-    "docs/TryHackMe/1 - SOC Level 1/2 - Cyber Threat Intelligence/1-2-Threat-Intelligence-Tools.md",
-    "docs/TryHackMe/1 - SOC Level 1/2 - Cyber Threat Intelligence/1-1-Introduction-Cyber-Threat-Intelligence.md",
     "docs/TryHackMe/1 - SOC Level 1/1 - Cyber Defense Frameworks/1-6-MITRE.md",
     "docs/TryHackMe/1 - SOC Level 1/1 - Cyber Defense Frameworks/1-3-Cyber-Kill-Chain.md",
     "docs/CertNotes/Network+/4 - Network Security/4-1-Security Concepts.md",
