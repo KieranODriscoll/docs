@@ -1,4 +1,4 @@
-name: Deploy to Stie
+name: Deploy to Site
 on:
   push:
     branches:
