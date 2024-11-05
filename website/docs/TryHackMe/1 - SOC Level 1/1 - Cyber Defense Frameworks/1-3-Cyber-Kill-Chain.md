@@ -78,7 +78,7 @@
 - Can use Timestomping technique to avoid detected by the forensic investigator and make the malware appear as part of a legitimate program.
 	- lets an attacker modify the file's timestamps, including modify, access, create and change times
 ## Command & Control
-- Channel through malware to remotely control and manipulate the victom
+- Channel through malware to remotely control and manipulate the victim
 - Term is known as C&C, C2 Beaconing as a type of malicious communication between a C&C server and malware on the infected host
 - Infected host will consistently communicate with the C2 server
 - Compromised endpoint would communicate with external server setup byattacker

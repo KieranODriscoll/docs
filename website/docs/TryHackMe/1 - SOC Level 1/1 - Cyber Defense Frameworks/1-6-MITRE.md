@@ -11,7 +11,7 @@
 ### ATT&CK Framework
 - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
 - MITRE began documenting common TTPs that APT groups used. Originally started as an internal project known as FMX. Security professionals were tasked to emulated adversarial TTPs against a network and data was collected from the attacks, beginning what is known as the ATT&CK Framework
-- Covers Windows, Mac and Lianux
+- Covers Windows, Mac and Linux
 - Consists of 14 categories (taken from the Unified Kill Chain) which cover the seven-stage Cyber Attack Lifecycle from the Cyber Kill Chain
 - Each category has techniques under it, with sub-techniques within them
 - Example: Phishing for initial access

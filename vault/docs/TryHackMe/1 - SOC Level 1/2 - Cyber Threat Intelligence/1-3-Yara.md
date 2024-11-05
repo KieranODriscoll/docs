@@ -1,0 +1,81 @@
+# 1.3 - Yara
+## About Yara
+- Pattern matching swiss knife for malware researchers (and everyone else)
+- Can identify information based on both binary and textual patterns, such as hexadecimal and strings contained within a file
+- Rules are used to label these patterns
+- Example
+	- To determine if a file is malicious or not, based upon the features - or patterns - it presents
+	- Strings are a fundamental concept of programming.
+	- Applications use strings to store data such as text
+	- Malware use of Strings
+		- ![](assets/Pasted%20image%2020241104121329.png)
+## Introduction to Yara Rules
+- Every yara command requires 2 arguments to be valid
+	- The rule file
+	- Name of the file, directory or process ID to use the rule for
+- Example of a rule
+	- ![](assets/Pasted%20image%2020241104122419.png)
+	- Contains both a name and a condition, so this rule is valid. This rule will tell us if the file exists or not. Not very helpful
+## Expanding on Yara Rules
+- Other conditions:
+	- Meta
+		- Reserved for descriptive information by the author of the rule
+		- Can use desc, to summarize what your rule checks for. Anything within this section does not influence the rule itself.
+	- Strings
+		- Search for specific text or hexadecimal
+		- Keyword Strings where the string that we want to search is stored within a variable
+		- ![](assets/Pasted%20image%2020241104124346.png)
+		- We would then need a condition to make the rule valid, we would use the variable's name
+		- ![](assets/Pasted%20image%2020241104124601.png)
+		- Now what if we wanted to use multiple strings? We can use condition "any of them" to search for all the strings listed
+		- ![](assets/Pasted%20image%2020241104124802.png)
+	- Conditions
+		- Already used true and any of them conditions.
+		- Can also use operators:
+			- <=
+			- >=
+			- !=
+		- Example
+			- ![](assets/Pasted%20image%2020241104124855.png)
+			- This will look for "Hello World!" and only match if there are less than or equal to 10 occurrences
+		- Other Keywords
+			- and
+			- not
+			- or
+		- Combine multiple conditions with and, not, or
+			- ![](assets/Pasted%20image%2020241104125052.png)
+- ![](assets/Pasted%20image%2020241104125129.png)
+## Yara Modules
+- Frameworks allow you to improve the technicality of Yara Rules
+- Cuckoo Sandbox
+	- an automated malware analysis environment
+	- Allows you to generate Yara rules based upon the behaviours discovered from Cuckoo Sandbox
+	- Can create rules on specific behaviours such as runtime strings and the like during execution in the sandbox environment
+- Python PE
+	- Allows you to create Yara rules from the various sections and elements of the Windows Portable Executable (PE) structure
+	- Standard formatting of all executables and DLL files on Windows, including the programming libraries that are used
+	- PE file's contents is an essential technique in malware analysis; behaviours such as cryptography or worming can be largely identified without reverse engineering or execution of the sample.
+## Other tools and Yara
+- LOKI
+	- Free open-source IOC (indicator of compromise) scanner
+	- Detection is based on 4 methods
+		- File Name IOC Check
+		- Yara Rule Check
+		- Hash Check
+		- C2 Back Connect Check
+- THOR
+	- Multi-platform IOC and Yara Scanner
+	- THOR lite, free version
+- FENRIR
+	- Bash script
+	- IOC Checker
+- YAYA (Yet Another Yara Automation)
+	- Open-source tool to help researchers manage multiple Yara rule repositories
+	- Starts by importing high-quality YARA rules and then lets researchers add their own, disable specific rulesets and runs scans on files
+## YarGen
+- Generator for YARA rules
+- Main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files
+- Can be used to generate YARA rules on a given file
+## Valhalla
+- Online Yara feed
+- "Boosts your detection capabilities with the power of thousands of hand-crafted high-quality YARA rules"
