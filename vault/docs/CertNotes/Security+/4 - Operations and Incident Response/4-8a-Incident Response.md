@@ -28,7 +28,7 @@
 - Policies needed for incident handling
 	- Everyone knows what to do 
 ## The challenge of detection
-- Many different detection soruces
+- Many different detection sources
 	- Different levels of detail, different levels of perception
 - A large amount of "volume"
 	- Attacks are incoming all the time
